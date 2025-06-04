@@ -1,0 +1,997 @@
+customer_id,gender,birth_year,city
+1,Ž,1974,Sarajevo
+2,M,1959,Sarajevo
+3,M,2001,Sarajevo
+4,Ž,1970,Sarajevo
+5,M,1963,Sarajevo
+6,Ž,1971,Sarajevo
+7,M,2005,Sarajevo
+8,Ž,1997,Sarajevo
+9,Ž,2001,Sarajevo
+10,Ž,1951,Sarajevo
+11,M,1985,Sarajevo
+12,M,2000,Sarajevo
+13,M,1959,Sarajevo
+14,Ž,1964,Sarajevo
+15,M,1990,Sarajevo
+16,M,1993,Sarajevo
+17,Ž,1953,Sarajevo
+18,M,1989,Sarajevo
+19,Ž,1977,Sarajevo
+20,M,1995,Sarajevo
+21,M,1962,Sarajevo
+22,M,1970,Sarajevo
+23,Ž,1959,Sarajevo
+24,Ž,1968,Sarajevo
+25,Ž,1973,Sarajevo
+26,M,1959,Sarajevo
+27,M,1985,Sarajevo
+28,Ž,1964,Sarajevo
+29,M,1975,Sarajevo
+30,Ž,1968,Sarajevo
+31,Ž,1967,Sarajevo
+32,M,1962,Sarajevo
+33,Ž,1981,Sarajevo
+34,Ž,2002,Sarajevo
+35,Ž,1979,Sarajevo
+36,Ž,1986,Sarajevo
+37,M,2005,Sarajevo
+38,Ž,1952,Sarajevo
+39,M,1961,Sarajevo
+40,M,1970,Sarajevo
+41,M,2005,Sarajevo
+42,Ž,1966,Sarajevo
+43,M,2001,Sarajevo
+44,M,1958,Sarajevo
+45,Ž,1956,Sarajevo
+46,Ž,1976,Sarajevo
+47,M,1968,Sarajevo
+48,M,1954,Sarajevo
+49,M,1950,Sarajevo
+50,M,1973,Sarajevo
+51,Ž,1957,Sarajevo
+52,M,1967,Sarajevo
+53,M,1987,Sarajevo
+54,M,1967,Sarajevo
+55,M,1979,Sarajevo
+56,M,1997,Sarajevo
+57,M,2005,Sarajevo
+58,Ž,1970,Sarajevo
+59,M,1955,Sarajevo
+60,Ž,1964,Sarajevo
+61,M,1970,Sarajevo
+62,Ž,1954,Sarajevo
+63,Ž,1980,Sarajevo
+64,Ž,1999,Sarajevo
+65,M,1950,Sarajevo
+66,Ž,1955,Sarajevo
+67,Ž,1963,Sarajevo
+68,Ž,1963,Sarajevo
+69,Ž,1990,Sarajevo
+70,M,1950,Sarajevo
+71,Ž,2000,Sarajevo
+72,Ž,1996,Sarajevo
+73,Ž,1990,Sarajevo
+74,Ž,1956,Sarajevo
+75,M,1970,Sarajevo
+76,Ž,1969,Sarajevo
+77,M,1994,Sarajevo
+78,Ž,1958,Sarajevo
+79,Ž,2000,Sarajevo
+80,Ž,1967,Sarajevo
+81,M,1991,Sarajevo
+82,M,1962,Sarajevo
+83,M,1962,Sarajevo
+84,M,1950,Sarajevo
+85,M,1983,Sarajevo
+86,Ž,1950,Sarajevo
+87,M,1986,Sarajevo
+88,M,1956,Sarajevo
+89,M,1955,Sarajevo
+90,M,1956,Sarajevo
+91,Ž,1962,Sarajevo
+92,Ž,1994,Sarajevo
+93,M,1990,Sarajevo
+94,M,1999,Sarajevo
+95,M,1952,Sarajevo
+96,M,1989,Sarajevo
+97,M,1982,Sarajevo
+98,M,2005,Sarajevo
+99,M,1966,Sarajevo
+100,M,1955,Sarajevo
+101,M,1977,Sarajevo
+102,Ž,1952,Sarajevo
+103,Ž,1985,Sarajevo
+104,Ž,1965,Sarajevo
+105,Ž,1978,Sarajevo
+106,Ž,2002,Sarajevo
+107,Ž,1999,Sarajevo
+108,Ž,1959,Sarajevo
+109,M,1992,Sarajevo
+110,M,1994,Sarajevo
+111,M,1984,Sarajevo
+112,M,1978,Sarajevo
+113,M,1978,Sarajevo
+114,M,2000,Sarajevo
+115,Ž,1991,Sarajevo
+116,M,1999,Sarajevo
+117,M,1962,Sarajevo
+118,Ž,1987,Sarajevo
+119,Ž,1982,Sarajevo
+120,Ž,1990,Sarajevo
+121,M,1957,Sarajevo
+122,M,1957,Sarajevo
+123,Ž,1951,Sarajevo
+124,M,1954,Sarajevo
+125,M,1995,Sarajevo
+126,Ž,1978,Sarajevo
+127,M,1971,Sarajevo
+128,M,1988,Sarajevo
+129,M,1970,Sarajevo
+130,Ž,1978,Sarajevo
+131,M,1951,Sarajevo
+132,Ž,1988,Sarajevo
+133,M,1987,Sarajevo
+134,Ž,2003,Sarajevo
+135,M,1981,Sarajevo
+136,Ž,2003,Sarajevo
+137,M,1997,Sarajevo
+138,M,1976,Sarajevo
+139,Ž,1954,Sarajevo
+140,M,1993,Sarajevo
+141,M,1972,Sarajevo
+142,M,1962,Sarajevo
+143,Ž,1978,Sarajevo
+144,Ž,1959,Sarajevo
+145,Ž,1955,Sarajevo
+146,M,1980,Sarajevo
+147,M,1957,Sarajevo
+148,Ž,1957,Sarajevo
+149,M,1957,Sarajevo
+150,Ž,1992,Sarajevo
+151,M,1980,Sarajevo
+152,Ž,1956,Sarajevo
+153,M,1997,Sarajevo
+154,M,1991,Sarajevo
+155,M,1963,Sarajevo
+156,Ž,1976,Sarajevo
+157,Ž,1989,Sarajevo
+158,Ž,1985,Sarajevo
+159,M,1979,Sarajevo
+160,M,1956,Sarajevo
+161,M,1953,Sarajevo
+162,M,1961,Sarajevo
+163,M,1986,Sarajevo
+164,M,1965,Sarajevo
+165,Ž,2000,Sarajevo
+166,Ž,1965,Sarajevo
+167,Ž,1997,Sarajevo
+168,M,1980,Sarajevo
+169,M,1984,Sarajevo
+170,M,1963,Sarajevo
+171,Ž,1952,Sarajevo
+172,Ž,1961,Sarajevo
+173,Ž,1982,Banja Luka
+174,M,1964,Banja Luka
+175,M,1989,Banja Luka
+176,M,1985,Banja Luka
+177,Ž,1954,Banja Luka
+178,M,1950,Banja Luka
+179,M,1999,Banja Luka
+180,Ž,1989,Banja Luka
+181,Ž,1977,Banja Luka
+182,Ž,2000,Banja Luka
+183,Ž,1959,Banja Luka
+184,M,1970,Banja Luka
+185,Ž,1981,Banja Luka
+186,Ž,1981,Banja Luka
+187,M,1974,Banja Luka
+188,Ž,1964,Banja Luka
+189,M,2004,Banja Luka
+190,Ž,2005,Banja Luka
+191,M,1984,Banja Luka
+192,M,1992,Banja Luka
+193,M,1971,Banja Luka
+194,Ž,1987,Banja Luka
+195,M,1964,Banja Luka
+196,Ž,1971,Banja Luka
+197,M,1991,Banja Luka
+198,M,2003,Banja Luka
+199,M,1954,Banja Luka
+200,M,1975,Banja Luka
+201,M,1995,Banja Luka
+202,M,1982,Banja Luka
+203,Ž,1950,Banja Luka
+204,M,1962,Banja Luka
+205,M,1951,Banja Luka
+206,M,1989,Banja Luka
+207,M,1989,Banja Luka
+208,M,1982,Banja Luka
+209,M,1990,Banja Luka
+210,M,1955,Banja Luka
+211,Ž,1972,Banja Luka
+212,M,1990,Banja Luka
+213,M,1977,Banja Luka
+214,M,1965,Banja Luka
+215,Ž,1991,Banja Luka
+216,M,1998,Banja Luka
+217,Ž,1984,Banja Luka
+218,Ž,1978,Banja Luka
+219,Ž,1951,Banja Luka
+220,Ž,1951,Banja Luka
+221,M,1961,Banja Luka
+222,Ž,1978,Banja Luka
+223,M,1963,Banja Luka
+224,Ž,1968,Banja Luka
+225,M,1997,Banja Luka
+226,M,1975,Banja Luka
+227,Ž,1961,Banja Luka
+228,Ž,1994,Banja Luka
+229,Ž,1956,Banja Luka
+230,M,2000,Banja Luka
+231,Ž,1996,Banja Luka
+232,M,1965,Banja Luka
+233,M,1978,Banja Luka
+234,M,1974,Banja Luka
+235,M,1956,Banja Luka
+236,M,1997,Banja Luka
+237,M,1981,Banja Luka
+238,M,1985,Banja Luka
+239,M,1977,Banja Luka
+240,M,1960,Banja Luka
+241,Ž,1961,Banja Luka
+242,M,1989,Banja Luka
+243,Ž,1971,Banja Luka
+244,M,1961,Banja Luka
+245,Ž,1963,Banja Luka
+246,M,1972,Banja Luka
+247,M,1998,Banja Luka
+248,Ž,1986,Banja Luka
+249,M,1976,Banja Luka
+250,Ž,1980,Banja Luka
+251,M,1997,Banja Luka
+252,M,1961,Banja Luka
+253,Ž,1962,Banja Luka
+254,M,1994,Banja Luka
+255,M,1960,Banja Luka
+256,Ž,2005,Banja Luka
+257,M,1987,Banja Luka
+258,M,1957,Banja Luka
+259,M,1964,Banja Luka
+260,M,1951,Banja Luka
+261,Ž,2004,Banja Luka
+262,Ž,1977,Banja Luka
+263,Ž,1982,Banja Luka
+264,M,1958,Banja Luka
+265,Ž,1981,Banja Luka
+266,Ž,1996,Banja Luka
+267,M,1950,Banja Luka
+268,M,1980,Banja Luka
+269,Ž,1975,Banja Luka
+270,Ž,1950,Banja Luka
+271,Ž,1993,Banja Luka
+272,M,1977,Banja Luka
+273,M,1964,Banja Luka
+274,Ž,1966,Banja Luka
+275,M,1952,Banja Luka
+276,Ž,1989,Banja Luka
+277,Ž,1988,Banja Luka
+278,Ž,1977,Banja Luka
+279,Ž,1975,Banja Luka
+280,M,1992,Banja Luka
+281,Ž,1972,Banja Luka
+282,Ž,1968,Banja Luka
+283,Ž,1991,Banja Luka
+284,Ž,1963,Banja Luka
+285,M,1951,Banja Luka
+286,M,1993,Banja Luka
+287,Ž,1964,Banja Luka
+288,M,1996,Banja Luka
+289,Ž,1983,Banja Luka
+290,Ž,1975,Banja Luka
+291,Ž,1976,Banja Luka
+292,M,1986,Banja Luka
+293,M,1998,Banja Luka
+294,Ž,1986,Banja Luka
+295,Ž,1968,Banja Luka
+296,M,1992,Banja Luka
+297,M,1999,Banja Luka
+298,M,1983,Banja Luka
+299,Ž,1954,Banja Luka
+300,M,1985,Banja Luka
+301,Ž,1954,Banja Luka
+302,M,1972,Banja Luka
+303,Ž,1969,Banja Luka
+304,Ž,1960,Banja Luka
+305,Ž,1969,Banja Luka
+306,Ž,2004,Banja Luka
+307,M,1982,Banja Luka
+308,Ž,2005,Banja Luka
+309,Ž,1996,Banja Luka
+310,Ž,1960,Banja Luka
+311,Ž,1967,Banja Luka
+312,M,1990,Banja Luka
+313,M,2001,Banja Luka
+314,Ž,1965,Banja Luka
+315,M,2001,Banja Luka
+316,Ž,1999,Banja Luka
+317,M,1975,Banja Luka
+318,M,1978,Banja Luka
+319,M,1997,Banja Luka
+320,Ž,1959,Banja Luka
+321,M,1953,Banja Luka
+322,M,1982,Banja Luka
+323,M,1976,Banja Luka
+324,M,1981,Banja Luka
+325,M,1958,Banja Luka
+326,Ž,1973,Banja Luka
+327,M,2004,Banja Luka
+328,M,2001,Banja Luka
+329,M,1982,Banja Luka
+330,Ž,2004,Banja Luka
+331,M,1990,Banja Luka
+332,Ž,1960,Banja Luka
+333,Ž,1967,Banja Luka
+334,Ž,1985,Banja Luka
+335,Ž,1995,Banja Luka
+336,Ž,1985,Banja Luka
+337,Ž,1960,Banja Luka
+338,Ž,1986,Banja Luka
+339,Ž,1985,Banja Luka
+340,Ž,1981,Banja Luka
+341,Ž,1952,Banja Luka
+342,M,1965,Banja Luka
+343,Ž,1991,Banja Luka
+344,M,1992,Banja Luka
+345,Ž,1996,Tuzla
+346,Ž,1960,Tuzla
+347,Ž,1950,Tuzla
+348,Ž,2005,Tuzla
+349,M,1953,Tuzla
+350,Ž,1982,Tuzla
+351,M,1998,Tuzla
+352,M,1976,Tuzla
+353,M,1999,Tuzla
+354,Ž,1958,Tuzla
+355,M,1964,Tuzla
+356,M,1956,Tuzla
+357,M,1977,Tuzla
+358,M,1963,Tuzla
+359,M,2000,Tuzla
+360,M,1961,Tuzla
+361,Ž,1991,Tuzla
+362,M,1992,Tuzla
+363,Ž,2003,Tuzla
+364,Ž,1972,Tuzla
+365,M,2002,Tuzla
+366,Ž,1950,Tuzla
+367,M,1954,Tuzla
+368,Ž,1970,Tuzla
+369,Ž,1993,Tuzla
+370,M,1993,Tuzla
+371,Ž,1973,Tuzla
+372,Ž,1971,Tuzla
+373,M,2003,Tuzla
+374,Ž,2004,Tuzla
+375,M,1963,Tuzla
+376,M,1952,Tuzla
+377,M,1996,Tuzla
+378,Ž,1992,Tuzla
+379,M,1953,Tuzla
+380,M,1964,Tuzla
+381,M,1952,Tuzla
+382,Ž,1980,Tuzla
+383,M,1962,Tuzla
+384,Ž,2003,Tuzla
+385,Ž,1994,Tuzla
+386,Ž,1997,Tuzla
+387,M,1954,Tuzla
+388,Ž,1977,Tuzla
+389,Ž,1950,Tuzla
+390,Ž,1963,Tuzla
+391,M,1951,Tuzla
+392,Ž,1967,Tuzla
+393,M,1968,Tuzla
+394,M,1951,Tuzla
+395,Ž,1974,Tuzla
+396,Ž,1969,Tuzla
+397,M,1965,Tuzla
+398,M,1974,Tuzla
+399,M,1950,Tuzla
+400,Ž,1995,Tuzla
+401,Ž,1968,Tuzla
+402,Ž,1989,Tuzla
+403,M,1962,Tuzla
+404,M,1989,Tuzla
+405,Ž,2004,Tuzla
+406,M,1994,Tuzla
+407,M,1969,Tuzla
+408,M,1991,Tuzla
+409,Ž,1982,Tuzla
+410,M,1967,Tuzla
+411,Ž,1984,Tuzla
+412,M,1957,Tuzla
+413,M,1961,Tuzla
+414,Ž,1985,Tuzla
+415,M,1982,Tuzla
+416,Ž,1980,Tuzla
+417,Ž,1999,Tuzla
+418,Ž,1971,Tuzla
+419,Ž,1954,Tuzla
+420,M,1956,Tuzla
+421,Ž,1952,Tuzla
+422,M,1978,Tuzla
+423,Ž,1968,Tuzla
+424,Ž,1984,Tuzla
+425,M,1994,Tuzla
+426,M,1963,Tuzla
+427,Ž,1950,Tuzla
+428,Ž,1989,Tuzla
+429,M,1970,Tuzla
+430,Ž,1970,Tuzla
+431,M,1997,Tuzla
+432,Ž,1998,Tuzla
+433,Ž,1961,Tuzla
+434,Ž,1997,Tuzla
+435,Ž,1969,Tuzla
+436,M,1959,Tuzla
+437,M,1959,Tuzla
+438,M,1980,Tuzla
+439,Ž,1953,Tuzla
+440,Ž,1993,Tuzla
+441,Ž,1970,Tuzla
+442,Ž,1982,Tuzla
+443,M,1965,Tuzla
+444,M,1969,Tuzla
+445,M,1981,Tuzla
+446,M,1954,Tuzla
+447,M,1962,Tuzla
+448,Ž,1989,Zenica
+449,Ž,1966,Zenica
+450,M,1975,Zenica
+451,Ž,1974,Zenica
+452,M,1955,Zenica
+453,Ž,1999,Zenica
+454,Ž,1953,Zenica
+455,Ž,1992,Zenica
+456,M,2003,Zenica
+457,M,1961,Zenica
+458,M,1993,Zenica
+459,Ž,1958,Zenica
+460,M,1961,Zenica
+461,Ž,1987,Zenica
+462,M,1954,Zenica
+463,M,1991,Zenica
+464,M,1974,Zenica
+465,Ž,1996,Zenica
+466,M,1961,Zenica
+467,M,1987,Zenica
+468,Ž,1994,Zenica
+469,M,1979,Zenica
+470,M,1975,Zenica
+471,M,1959,Zenica
+472,Ž,1992,Zenica
+473,M,1985,Zenica
+474,M,1971,Zenica
+475,Ž,1964,Zenica
+476,Ž,1959,Zenica
+477,M,1982,Zenica
+478,Ž,2004,Zenica
+479,M,1981,Zenica
+480,M,1958,Zenica
+481,M,1950,Zenica
+482,M,1963,Zenica
+483,M,1974,Zenica
+484,M,1992,Zenica
+485,Ž,1956,Zenica
+486,Ž,1950,Zenica
+487,M,2003,Zenica
+488,M,1992,Zenica
+489,Ž,1992,Zenica
+490,Ž,1962,Zenica
+491,M,1986,Zenica
+492,Ž,1959,Zenica
+493,Ž,1967,Zenica
+494,Ž,1990,Zenica
+495,M,1988,Zenica
+496,Ž,1953,Zenica
+497,Ž,1994,Zenica
+498,M,1968,Zenica
+499,M,2005,Zenica
+500,M,1967,Zenica
+501,M,1992,Zenica
+502,M,1999,Zenica
+503,Ž,1980,Zenica
+504,M,1986,Zenica
+505,M,1990,Zenica
+506,Ž,1974,Zenica
+507,Ž,1953,Zenica
+508,M,1974,Zenica
+509,Ž,2002,Zenica
+510,M,1968,Zenica
+511,Ž,1986,Zenica
+512,M,1985,Zenica
+513,Ž,1972,Zenica
+514,Ž,1994,Zenica
+515,M,1992,Zenica
+516,Ž,1973,Zenica
+517,Ž,1961,Zenica
+518,M,1989,Zenica
+519,M,1976,Zenica
+520,M,1956,Zenica
+521,Ž,1979,Zenica
+522,Ž,1987,Zenica
+523,M,1969,Zenica
+524,M,1998,Zenica
+525,Ž,1978,Zenica
+526,Ž,1950,Zenica
+527,M,1971,Zenica
+528,Ž,1966,Zenica
+529,Ž,1960,Zenica
+530,Ž,1983,Zenica
+531,M,1981,Zenica
+532,M,1975,Zenica
+533,Ž,1969,Zenica
+534,Ž,1984,Zenica
+535,Ž,1998,Zenica
+536,Ž,1995,Zenica
+537,Ž,2003,Zenica
+538,M,1952,Zenica
+539,Ž,1993,Zenica
+540,Ž,1960,Zenica
+541,Ž,2000,Zenica
+542,M,1965,Zenica
+543,M,1973,Zenica
+544,Ž,1958,Zenica
+545,M,1968,Zenica
+546,Ž,1990,Zenica
+547,Ž,1987,Zenica
+548,Ž,1970,Zenica
+549,M,1974,Zenica
+550,M,1997,Zenica
+551,M,1957,Mostar
+552,Ž,1967,Mostar
+553,Ž,1979,Mostar
+554,Ž,1996,Mostar
+555,Ž,1977,Mostar
+556,Ž,1979,Mostar
+557,Ž,1969,Mostar
+558,M,1996,Mostar
+559,M,2005,Mostar
+560,M,1952,Mostar
+561,M,1974,Mostar
+562,Ž,1971,Mostar
+563,M,1998,Mostar
+564,M,1957,Mostar
+565,Ž,1987,Mostar
+566,Ž,1993,Mostar
+567,Ž,1969,Mostar
+568,Ž,1995,Mostar
+569,M,1961,Mostar
+570,M,1970,Mostar
+571,Ž,2004,Mostar
+572,M,1951,Mostar
+573,M,1994,Mostar
+574,M,1960,Mostar
+575,Ž,1983,Mostar
+576,Ž,1975,Mostar
+577,M,1994,Mostar
+578,Ž,2005,Mostar
+579,Ž,1958,Mostar
+580,M,1982,Mostar
+581,M,1972,Mostar
+582,Ž,1995,Mostar
+583,M,1979,Mostar
+584,M,1986,Mostar
+585,Ž,1977,Mostar
+586,Ž,1967,Mostar
+587,M,1955,Mostar
+588,Ž,1966,Mostar
+589,Ž,1963,Mostar
+590,Ž,1975,Mostar
+591,M,1997,Mostar
+592,M,1978,Mostar
+593,M,1989,Mostar
+594,M,1973,Mostar
+595,Ž,1969,Mostar
+596,M,1987,Mostar
+597,M,1993,Mostar
+598,Ž,2001,Mostar
+599,Ž,1975,Mostar
+600,Ž,1989,Mostar
+601,Ž,2005,Mostar
+602,Ž,1979,Mostar
+603,M,1950,Mostar
+604,Ž,1996,Mostar
+605,Ž,1963,Mostar
+606,Ž,1968,Mostar
+607,M,1996,Mostar
+608,Ž,1997,Mostar
+609,M,1975,Mostar
+610,Ž,2005,Mostar
+611,Ž,1979,Mostar
+612,M,1961,Mostar
+613,M,1980,Mostar
+614,M,1985,Mostar
+615,M,1971,Mostar
+616,Ž,1999,Mostar
+617,Ž,1951,Mostar
+618,Ž,1986,Mostar
+619,Ž,1965,Mostar
+620,M,1994,Mostar
+621,M,1959,Mostar
+622,M,2005,Mostar
+623,M,1988,Mostar
+624,M,1964,Mostar
+625,M,2000,Mostar
+626,Ž,1979,Mostar
+627,Ž,1984,Mostar
+628,Ž,2001,Mostar
+629,Ž,1952,Mostar
+630,Ž,1956,Mostar
+631,M,1950,Mostar
+632,Ž,1950,Mostar
+633,Ž,1985,Mostar
+634,M,1953,Mostar
+635,Ž,2000,Mostar
+636,Ž,1969,Mostar
+637,M,1983,Mostar
+638,Ž,1950,Mostar
+639,M,1994,Mostar
+640,M,1966,Mostar
+641,M,1991,Mostar
+642,Ž,1950,Mostar
+643,Ž,1982,Mostar
+644,Ž,1979,Mostar
+645,M,1999,Mostar
+646,M,1979,Mostar
+647,M,1982,Mostar
+648,Ž,1971,Mostar
+649,Ž,1989,Mostar
+650,M,1980,Mostar
+651,Ž,1995,Mostar
+652,Ž,2001,Mostar
+653,Ž,1973,Mostar
+654,Ž,1969,Bihać
+655,M,1985,Bihać
+656,M,1971,Bihać
+657,Ž,1964,Bihać
+658,M,1995,Bihać
+659,M,1991,Bihać
+660,M,1957,Bihać
+661,Ž,1987,Bihać
+662,Ž,1974,Bihać
+663,M,1971,Bihać
+664,M,1955,Bihać
+665,M,1983,Bihać
+666,Ž,1975,Bihać
+667,M,1977,Bihać
+668,Ž,1963,Bihać
+669,M,1961,Bihać
+670,M,1979,Bihać
+671,Ž,1991,Bihać
+672,M,1954,Bihać
+673,M,1957,Bihać
+674,M,2003,Bihać
+675,Ž,2000,Bihać
+676,M,1958,Bihać
+677,M,1998,Bihać
+678,Ž,1992,Bihać
+679,M,2005,Bihać
+680,Ž,1956,Bihać
+681,M,1997,Bihać
+682,Ž,1974,Bihać
+683,M,1961,Bihać
+684,Ž,1951,Bihać
+685,Ž,1977,Bihać
+686,Ž,1953,Bihać
+687,Ž,1957,Bihać
+688,Ž,2003,Bihać
+689,Ž,1957,Bihać
+690,M,1992,Bihać
+691,M,1970,Bihać
+692,M,1984,Bihać
+693,Ž,1961,Bihać
+694,Ž,1951,Bihać
+695,Ž,1989,Bihać
+696,Ž,1990,Bihać
+697,M,1959,Bihać
+698,M,1975,Bihać
+699,M,1965,Bihać
+700,Ž,1960,Bihać
+701,Ž,2002,Bihać
+702,M,1962,Bihać
+703,M,1984,Bihać
+704,M,1951,Bihać
+705,M,1955,Bihać
+706,Ž,1992,Bihać
+707,M,2003,Bihać
+708,M,2003,Bihać
+709,M,1971,Bihać
+710,M,1952,Bihać
+711,Ž,1980,Bihać
+712,M,1965,Bihać
+713,Ž,1979,Bihać
+714,Ž,1992,Doboj
+715,M,1971,Doboj
+716,Ž,1952,Doboj
+717,M,1999,Doboj
+718,M,1988,Doboj
+719,Ž,1995,Doboj
+720,M,1958,Doboj
+721,M,2002,Doboj
+722,Ž,1963,Doboj
+723,M,1970,Doboj
+724,Ž,2004,Doboj
+725,M,1959,Doboj
+726,M,1967,Doboj
+727,Ž,1997,Doboj
+728,M,2001,Doboj
+729,Ž,1988,Doboj
+730,M,1958,Doboj
+731,M,1959,Doboj
+732,M,1976,Doboj
+733,Ž,1969,Doboj
+734,Ž,1982,Doboj
+735,Ž,1978,Doboj
+736,Ž,1986,Doboj
+737,Ž,1993,Doboj
+738,Ž,1961,Doboj
+739,Ž,1950,Doboj
+740,M,1962,Doboj
+741,Ž,2004,Doboj
+742,Ž,1960,Doboj
+743,M,2000,Doboj
+744,Ž,1962,Doboj
+745,Ž,1984,Doboj
+746,M,1993,Doboj
+747,M,1987,Doboj
+748,Ž,1980,Doboj
+749,M,1952,Doboj
+750,M,1973,Doboj
+751,Ž,1995,Doboj
+752,M,1985,Doboj
+753,Ž,1991,Doboj
+754,Ž,1974,Doboj
+755,M,1950,Doboj
+756,M,1968,Doboj
+757,Ž,2004,Doboj
+758,M,1985,Doboj
+759,Ž,1957,Doboj
+760,M,1978,Doboj
+761,Ž,1982,Doboj
+762,M,1978,Doboj
+763,M,2003,Doboj
+764,M,1987,Doboj
+765,Ž,1985,Doboj
+766,M,1983,Doboj
+767,M,1971,Doboj
+768,Ž,1997,Doboj
+769,M,1973,Doboj
+770,Ž,1967,Doboj
+771,M,1991,Doboj
+772,M,1998,Doboj
+773,Ž,1985,Doboj
+774,Ž,1964,Prijedor
+775,Ž,1997,Prijedor
+776,Ž,1957,Prijedor
+777,Ž,1978,Prijedor
+778,M,2005,Prijedor
+779,M,1977,Prijedor
+780,Ž,1974,Prijedor
+781,M,1977,Prijedor
+782,Ž,1974,Prijedor
+783,M,1997,Prijedor
+784,Ž,1982,Prijedor
+785,M,1960,Prijedor
+786,M,2001,Prijedor
+787,Ž,1954,Prijedor
+788,Ž,1987,Prijedor
+789,M,1988,Prijedor
+790,M,2001,Prijedor
+791,Ž,1963,Prijedor
+792,M,1988,Prijedor
+793,M,1977,Prijedor
+794,M,1983,Prijedor
+795,M,1957,Prijedor
+796,Ž,1976,Prijedor
+797,Ž,1956,Prijedor
+798,Ž,2005,Prijedor
+799,M,1998,Prijedor
+800,M,1958,Prijedor
+801,M,1986,Prijedor
+802,Ž,1991,Prijedor
+803,Ž,2004,Prijedor
+804,M,1994,Prijedor
+805,Ž,1968,Prijedor
+806,Ž,1993,Prijedor
+807,Ž,1984,Prijedor
+808,M,1967,Prijedor
+809,M,1989,Prijedor
+810,M,1992,Prijedor
+811,M,1990,Prijedor
+812,M,1990,Prijedor
+813,M,1954,Prijedor
+814,M,1953,Prijedor
+815,M,1995,Prijedor
+816,Ž,1966,Prijedor
+817,Ž,2005,Prijedor
+818,Ž,2002,Prijedor
+819,Ž,1992,Prijedor
+820,Ž,2004,Prijedor
+821,M,1970,Prijedor
+822,M,1979,Prijedor
+823,Ž,1973,Prijedor
+824,M,1993,Prijedor
+825,M,1976,Prijedor
+826,Ž,2004,Prijedor
+827,M,1972,Prijedor
+828,M,1970,Prijedor
+829,M,1951,Prijedor
+830,Ž,1964,Prijedor
+831,M,1975,Prijedor
+832,Ž,1960,Prijedor
+833,Ž,1959,Prijedor
+834,M,1978,Brčko
+835,M,1984,Brčko
+836,Ž,1968,Brčko
+837,M,1952,Brčko
+838,Ž,1979,Brčko
+839,Ž,2000,Brčko
+840,Ž,1969,Brčko
+841,Ž,1970,Brčko
+842,M,1977,Brčko
+843,Ž,1995,Brčko
+844,Ž,1950,Brčko
+845,M,1968,Brčko
+846,Ž,1957,Brčko
+847,M,1976,Brčko
+848,M,1989,Brčko
+849,M,1961,Brčko
+850,Ž,1985,Brčko
+851,Ž,1950,Brčko
+852,M,2001,Brčko
+853,Ž,1982,Brčko
+854,Ž,1971,Brčko
+855,Ž,2003,Brčko
+856,M,1985,Brčko
+857,Ž,1952,Brčko
+858,M,1952,Brčko
+859,M,1957,Brčko
+860,M,1999,Brčko
+861,M,1960,Brčko
+862,M,1973,Brčko
+863,Ž,1973,Brčko
+864,Ž,1987,Brčko
+865,M,1977,Brčko
+866,M,1987,Brčko
+867,Ž,2000,Brčko
+868,M,2003,Brčko
+869,Ž,1957,Brčko
+870,M,2002,Brčko
+871,M,2003,Brčko
+872,M,1982,Brčko
+873,M,1976,Brčko
+874,Ž,1986,Brčko
+875,Ž,1996,Brčko
+876,Ž,1974,Brčko
+877,Ž,1966,Brčko
+878,Ž,2005,Brčko
+879,Ž,1963,Brčko
+880,M,1961,Brčko
+881,M,2002,Brčko
+882,M,1957,Brčko
+883,Ž,1999,Brčko
+884,Ž,1951,Brčko
+885,Ž,1953,Brčko
+886,M,1981,Brčko
+887,M,1956,Brčko
+888,M,1995,Brčko
+889,M,2000,Brčko
+890,Ž,1951,Brčko
+891,M,1950,Brčko
+892,Ž,1995,Brčko
+893,Ž,1970,Brčko
+894,Ž,1952,Brčko
+895,Ž,2005,Brčko
+896,Ž,1952,Brčko
+897,Ž,2003,Brčko
+898,Ž,1971,Brčko
+899,Ž,1991,Brčko
+900,M,1991,Brčko
+901,Ž,1962,Brčko
+902,M,2000,Brčko
+903,M,1975,Brčko
+904,M,1959,Brčko
+905,M,2005,Brčko
+906,Ž,1994,Brčko
+907,M,1955,Brčko
+908,M,1969,Brčko
+909,M,1987,Brčko
+910,Ž,1966,Brčko
+911,M,1996,Brčko
+912,M,1989,Brčko
+913,M,1995,Brčko
+914,M,1971,Brčko
+915,M,1962,Brčko
+916,M,1956,Brčko
+917,Ž,1980,Brčko
+918,Ž,1969,Brčko
+919,Ž,1959,Brčko
+920,Ž,1970,Brčko
+921,Ž,1976,Brčko
+922,M,1977,Brčko
+923,Ž,1982,Brčko
+924,Ž,1972,Brčko
+925,Ž,1957,Brčko
+926,M,1990,Brčko
+927,M,1967,Brčko
+928,M,1966,Brčko
+929,Ž,2004,Brčko
+930,Ž,1983,Brčko
+931,Ž,1958,Brčko
+932,Ž,1968,Brčko
+933,Ž,2002,Brčko
+934,M,1996,Brčko
+935,M,1960,Brčko
+936,Ž,1958,Brčko
+937,Ž,1967,Trebinje
+938,Ž,1986,Trebinje
+939,Ž,1985,Trebinje
+940,M,1989,Trebinje
+941,Ž,1988,Trebinje
+942,Ž,1957,Trebinje
+943,M,1963,Trebinje
+944,M,1973,Trebinje
+945,Ž,1993,Trebinje
+946,M,2001,Trebinje
+947,Ž,1954,Trebinje
+948,M,1953,Trebinje
+949,Ž,1979,Trebinje
+950,Ž,1968,Trebinje
+951,M,1963,Trebinje
+952,M,1991,Trebinje
+953,Ž,1986,Trebinje
+954,Ž,1993,Trebinje
+955,M,1988,Trebinje
+956,M,1999,Trebinje
+957,Ž,1966,Trebinje
+958,M,2005,Trebinje
+959,Ž,1991,Trebinje
+960,Ž,1994,Trebinje
+961,Ž,1957,Trebinje
+962,Ž,1975,Trebinje
+963,M,1963,Trebinje
+964,M,1984,Trebinje
+965,M,2004,Trebinje
+966,Ž,1969,Trebinje
+967,M,1962,Trebinje
+968,Ž,1965,Trebinje
+969,Ž,1953,Trebinje
+970,M,1992,Trebinje
+971,Ž,1953,Trebinje
+972,Ž,1984,Trebinje
+973,M,1999,Trebinje
+974,Ž,1986,Trebinje
+975,M,1993,Trebinje
+976,Ž,1969,Trebinje
+977,Ž,1956,Trebinje
+978,M,1969,Trebinje
+979,Ž,1998,Trebinje
+980,Ž,1979,Trebinje
+981,M,1958,Trebinje
+982,M,1961,Trebinje
+983,Ž,1996,Trebinje
+984,Ž,1952,Trebinje
+985,M,1985,Trebinje
+986,M,1963,Trebinje
+987,Ž,1979,Trebinje
+988,Ž,1992,Trebinje
+989,M,1954,Trebinje
+990,M,2002,Trebinje
+991,Ž,1966,Trebinje
+992,Ž,1977,Trebinje
+993,M,2003,Trebinje
+994,M,1962,Trebinje
+995,Ž,1975,Trebinje
+996,Ž,1966,Trebinje

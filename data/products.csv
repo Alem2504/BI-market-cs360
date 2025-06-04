@@ -1,0 +1,1001 @@
+product_id,name,category,brand,unit_price
+1,Mlijeko 2.8% MM,Mliječni proizvodi,Meggle,2.1
+2,Jaja L klasa (10 kom),Jaja,Perutnina Ptuj,3.5
+3,Bijeli kruh,Pekarski proizvodi,Klas,1.2
+4,Svježe pileće grudi,Meso,Brojler,8.99
+5,Jabuke Crveni Delišes (1kg),Voće i povrće,Lokalno,2.5
+6,Banane (1kg),Voće i povrće,Chiquita,2.99
+7,Paradajz (1kg),Voće i povrće,Lokalno,3.2
+8,Krompir (1kg),Voće i povrće,Lokalno,1.5
+9,Tjestenina špagete,Tjestenina,Barilla,1.8
+10,Riža dugo zrno (1kg),Žitarice,Uncle Ben's,2.7
+11,Maslinovo ulje ekstra djevičansko (1L),Ulja i masti,Zvijezda,12.5
+12,Suncokretovo ulje (1L),Ulja i masti,Floriol,3.1
+13,Šećer kristal (1kg),Slatkiši i grickalice,Agrokomerc,1.7
+14,Sol kuhinjska (1kg),Začini,Solana Tuzla,0.8
+15,Crni biber mljeveni (50g),Začini,Kotanyi,2.9
+16,Kafa mljevena (200g),Pića,Franck,4.5
+17,Čaj kamilica (20 vrećica),Pića,Podravka,1.9
+18,Mineralna voda (1.5L),Pića,Jamnica,1.1
+19,Gazirana voda (1.5L),Pića,Radenska,1.3
+20,Coca-Cola (2L),Pića,Coca-Cola,2.3
+21,Sok narandža (1L),Pića,Vindi,1.8
+22,Jogurt tekući 2.8% MM (1L),Mliječni proizvodi,Dukat,2.2
+23,Sir Gauda narezani (200g),Mliječni proizvodi,President,4.8
+24,Pavlaka kisela 20% MM (400g),Mliječni proizvodi,Meggle,1.9
+25,Maslac (250g),Mliječni proizvodi,Zott,3.9
+26,Kefir (500ml),Mliječni proizvodi,Dukat,1.5
+27,Kobasica parizer (500g),Mesne prerađevine,Gavrilović,4.2
+28,Šunka dimljena narezana (100g),Mesne prerađevine,PIK Vrbovec,2.8
+29,Salama čajna (200g),Mesne prerađevine,Podravka,3.5
+30,Pašteta jetrena (95g),Mesne prerađevine,Argeta,1.4
+31,Riba tuna u ulju (185g),Riba i morski plodovi,Rio Mare,3.2
+32,Sardine u ulju (125g),Riba i morski plodovi,Eva,1.9
+33,Smrznuti grašak (450g),Smrznuto povrće,Ledena,2.1
+34,Smrznuta brokula (450g),Smrznuto povrće,Ledena,2.3
+35,Smrznuti pomfrit (1kg),Smrznuti proizvodi,Ledo,3.5
+36,Sladoled vanilija (1L),Smrznuti proizvodi,Ledo,4.9
+37,Kukuruz šećerac konzerva,Konzervirano povrće,Bonduelle,1.6
+38,Grah bijeli konzerva,Konzervirano povrće,Podravka,1.4
+39,Kiseli krastavci (680g),Konzervirano povrće,Podravka,2.5
+40,Džem od šljiva (370g),Marmelade i džemovi,Podravka,3.1
+41,Med cvjetni (500g),Slatkiši i grickalice,Apis,6.5
+42,Čokolada mliječna (80g),Slatkiši i grickalice,Milka,1.5
+43,Keks Petit Beurre (250g),Slatkiši i grickalice,Kraš,1.8
+44,Čips paprika (150g),Slatkiši i grickalice,Lay's,2.2
+45,Kikiriki prženi slani (100g),Slatkiši i grickalice,Kraš,1.3
+46,Puding čokolada (40g),Slatkiši i grickalice,Dr. Oetker,0.9
+47,Brašno glatko T-500 (1kg),Pekarski proizvodi,Klas,1.1
+48,Kvasac suhi (7g),Pekarski proizvodi,Dr. Oetker,0.6
+49,Paradajz sos (500g),Umaci,Podravka,1.9
+50,Majoneza (165g),Umaci,Zvijezda,2.2
+51,Kečap blagi (500g),Umaci,Zvijezda,2.1
+52,Senf (200g),Umaci,Podravka,1.7
+53,Ocat alkoholni (1L),Ulja i masti,Kisko,1.2
+54,Deterdžent za suđe (500ml),Sredstva za čišćenje,Jar,3.5
+55,Sredstvo za čišćenje podova (1L),Sredstva za čišćenje,Ajax,4.2
+56,Toalet papir (10 rola),Higijena,Paloma,4.9
+57,Papirnati ubrusi (2 role),Higijena,Zewa,2.8
+58,Sapun za ruke tekući (500ml),Higijena,Nivea,3.1
+59,Pasta za zube (75ml),Higijena,Colgate,2.5
+60,Četkica za zube,Higijena,Oral-B,2.9
+61,Šampon za kosu (400ml),Higijena,Head & Shoulders,5.5
+62,Gel za tuširanje (250ml),Higijena,Dove,3.8
+63,Dezodorans sprej (150ml),Higijena,Rexona,4.2
+64,Pelene za bebe (vel. 4),Dječji program,Pampers,19.99
+65,Vlažne maramice (60 kom),Dječji program,Pampers,2.1
+66,Hrana za pse (suha 3kg),Hrana za kućne ljubimce,Pedigree,8.99
+67,Hrana za mačke (mokra 400g),Hrana za kućne ljubimce,Whiskas,1.8
+68,Baterije AA (4 kom),Kućanstvo,Duracell,4.5
+69,Žarulja LED E27,Kućanstvo,Philips,3.9
+70,Vreće za smeće (20 kom),Kućanstvo,Paclan,2.5
+71,Spužva za suđe (3 kom),Kućanstvo,Vileda,1.5
+72,Čaše staklene (6 kom),Kućanstvo,Pasabahce,9.99
+73,Tanjiri plitki (1 kom),Kućanstvo,Arcopal,4.5
+74,Šoljice za kafu (2 kom),Kućanstvo,Bormioli Rocco,6.99
+75,Plastične posude za hranu (3 kom),Kućanstvo,Curver,7.99
+76,Aluminijska folija (10m),Kućanstvo,Alufix,1.8
+77,Prozirna folija (20m),Kućanstvo,Alufix,1.5
+78,Kese za zamrzavanje (20 kom),Kućanstvo,Paclan,2.2
+79,Sredstvo za pranje veša (tekući 2.7L),Sredstva za čišćenje,Persil,12.99
+80,Omekšivač za veš (1L),Sredstva za čišćenje,Lenor,4.99
+81,Tablete za mašinsko pranje suđa (30 kom),Sredstva za čišćenje,Finish,9.99
+82,Sredstvo za čišćenje stakla (750ml),Sredstva za čišćenje,Mr. Proper,3.2
+83,Sredstvo za čišćenje kupatila (750ml),Sredstva za čišćenje,Cillit Bang,4.5
+84,Osvježivač zraka sprej,Kućanstvo,Glade,3.5
+85,Svijeće mirisne (velika),Kućanstvo,Yankee Candle,7.99
+86,Upaljač,Kućanstvo,Bic,1.0
+87,Šibice,Kućanstvo,Kandit,0.5
+88,Novine dnevne,Novine i časopisi,Dnevni Avaz,1.5
+89,Časopis sedmični,Novine i časopisi,Gloria,2.5
+90,Knjiga za djecu,Knjige,Egmont,9.99
+91,Sveska A4,Školski pribor,Office Depot,1.8
+92,Olovka hemijska (plava),Školski pribor,Bic,0.8
+93,Gumica za brisanje,Školski pribor,Faber-Castell,0.5
+94,Flomasteri (12 kom),Školski pribor,Stabilo,4.9
+95,Boje drvene (12 kom),Školski pribor,Koh-i-Noor,3.5
+96,Ljepilo u stiku,Školski pribor,UHU,1.2
+97,Makaze,Školski pribor,Fiskars,3.9
+98,Metar (5m),Kućanstvo,Stanley,6.99
+99,Set odvijača (6 kom),Alati,Bosch,14.99
+100,Rukavice za domaćinstvo,Kućanstvo,Vileda,2.5
+101,Kruh integralni,Pekarski proizvodi,Klas,1.5
+102,Kruh kukuruzni,Pekarski proizvodi,Klas,1.4
+103,Lisnato tijesto (500g),Pekarski proizvodi,Ledo,2.8
+104,Pecivo kajzerica (kom),Pekarski proizvodi,Lokalno,0.4
+105,Pekarski proizvodi,Kroasan čokoladni,Lokalno,0.9
+106,Pekarski proizvodi,Burek sir (kom),Lokalno,2.5
+107,Pekarski proizvodi,Pita zeljanica (kom),Lokalno,2.8
+108,Meso,Mljeveno meso (500g),Mesna Industrija,4.5
+109,Meso,Svinjski vrat (1kg),Mesna Industrija,7.99
+110,Meso,Juneća rebra (1kg),Mesna Industrija,9.5
+111,Meso,Pileća krila (500g),Brojler,3.99
+112,Meso,Pureći file (500g),Vindija,6.5
+113,Mesne prerađevine,Hrenovka (500g),Wudy,3.2
+114,Mesne prerađevine,Kulen (250g),Gavrilović,5.99
+115,Mesne prerađevine,Suhi vrat (200g),PIK Vrbovec,4.8
+116,Mesne prerađevine,Čajna pašteta (95g),Argeta,1.4
+117,Mesne prerađevine,Pileća prsa u ovitku (100g),Cekin,2.2
+118,Riba i morski plodovi,Oslić smrznuti (500g),Ledo,4.9
+119,Riba i morski plodovi,Lignje smrznute (400g),Ledo,6.5
+120,Riba i morski plodovi,Pastrmka svježa (kom),Lokalno,7.0
+121,Mliječni proizvodi,Sir Edamer narezani (200g),President,4.5
+122,Mliječni proizvodi,Sir Feta (200g),Meggle,3.9
+123,Mliječni proizvodi,Svježi sir (250g),Dukat,2.5
+124,Mliječni proizvodi,Kajmak (200g),Mljekara Livno,4.2
+125,Mliječni proizvodi,Puding vanilija (125g),Dukat,0.8
+126,Mliječni proizvodi,Čokoladno mlijeko (500ml),Dukat,1.5
+127,Mliječni proizvodi,Vrhnje za kuhanje (200ml),Zvijezda,1.9
+128,Mliječni proizvodi,Vrhnje za šlag (500ml),Dukat,3.2
+129,Jaja,Jaja M klasa (6 kom),Perutnina Ptuj,2.2
+130,Voće i povrće,Luk crveni (1kg),Lokalno,1.8
+131,Voće i povrće,Bijeli luk (250g),Lokalno,2.5
+132,Voće i povrće,Mrkva (1kg),Lokalno,1.3
+133,Voće i povrće,Kupus (1kg),Lokalno,1.0
+134,Voće i povrće,Salata zelena (glavica),Lokalno,1.2
+135,Voće i povrće,Paprika zelena (1kg),Lokalno,2.8
+136,Voće i povrće,Krastavci (1kg),Lokalno,2.0
+137,Voće i povrće,Limun (1kg),Lokalno,3.5
+138,Voće i povrće,Narandže (1kg),Lokalno,2.7
+139,Voće i povrće,Grožđe (500g),Lokalno,3.9
+140,Voće i povrće,Jagode (250g),Lokalno,4.5
+141,Voće i povrće,Trešnje (500g),Lokalno,5.9
+142,Voće i povrće,Breskve (1kg),Lokalno,3.8
+143,Voće i povrće,Šljive (1kg),Lokalno,2.5
+144,Voće i povrće,Kruške (1kg),Lokalno,2.9
+145,Tjestenina,Tjestenina pužići,Barilla,1.7
+146,Tjestenina,Tjestenina penne,Barilla,1.8
+147,Tjestenina,Tjestenina lazanje,Barilla,2.5
+148,Žitarice,Kukuruzni griz (500g),Podravka,1.5
+149,Žitarice,Zobene pahuljice (500g),Quaker,2.9
+150,Žitarice,Musli voćni (375g),Nestle,3.5
+151,Ulja i masti,Kokosovo ulje (500ml),Bio Zone,7.9
+152,Ulja i masti,Margarin (250g),Zvijezda,1.5
+153,Začini,Vegeta (250g),Podravka,3.2
+154,Začini,Crvena paprika slatka (100g),Kotanyi,2.5
+155,Začini,Origano (20g),Kotanyi,1.8
+156,Začini,Bosiljak (20g),Kotanyi,1.8
+157,Začini,Lovorov list (10g),Kotanyi,1.2
+158,Slatkiši i grickalice,Čokolada za kuhanje (200g),Kraš,2.5
+159,Slatkiši i grickalice,Napolitanke čokoladne (300g),Kraš,2.2
+160,Slatkiši i grickalice,Bomboni mentol (100g),Kandit,1.5
+161,Slatkiši i grickalice,Žvakaće gume (pakovanje),Orbit,1.2
+162,Slatkiši i grickalice,Kikiriki flips (50g),Smoki,0.8
+163,Slatkiši i grickalice,Pistaći (100g),Almondy,4.9
+164,Slatkiši i grickalice,Suhe smokve (200g),Podravka,2.9
+165,Pića,Kafa instant (100g),Nescafe,5.5
+166,Pića,Kakao prah (100g),Kraš,2.1
+167,Pića,Sok jabuka (1L),Vindi,1.7
+168,Pića,Sok višnja (1L),Vindi,1.9
+169,Pića,Pivo svijetlo (0.5L),Ožujsko,1.5
+170,Pića,Vino crveno (0.75L),Plavac Mali,9.99
+171,Pića,Vino bijelo (0.75L),Graševina,8.5
+172,Konzervirano povrće,Kukuruz šećerac konzerva,Bonduelle,1.6
+173,Konzervirano povrće,Grah crveni konzerva,Podravka,1.4
+174,Konzervirano povrće,Cikla rezana konzerva,Podravka,1.8
+175,Konzervirano povrće,Krastavci kiseli (680g),Podravka,2.5
+176,Konzervirano povrće,Ajvar blagi (350g),Podravka,3.9
+177,Konzervirano povrće,Ajvar ljuti (350g),Podravka,3.9
+178,Konzervirano povrće,Pečurke rezane konzerva,Podravka,2.2
+179,Smrznuti proizvodi,Smrznuti kukuruz (450g),Ledena,2.1
+180,Smrznuti proizvodi,Smrznuti špinat (450g),Ledena,2.3
+181,Smrznuti proizvodi,Smrznuta pizza Capricciosa,Ledo,4.5
+182,Smrznuti proizvodi,Smrznuti burek sir,Ledo,3.9
+183,Smrznuti proizvodi,Sladoled čokolada (1L),Ledo,4.9
+184,Umaci,Pesto Genovese (190g),Barilla,3.5
+185,Umaci,Tartar sos (165g),Zvijezda,2.5
+186,Umaci,Sos za tjesteninu (400g),Mutti,2.8
+187,Higijena,Vata (100g),Hartmann,1.5
+188,Higijena,Flasteri (pakovanje),Hansaplast,2.2
+189,Higijena,Vlažne maramice za čišćenje (100 kom),Nivea,2.5
+190,Higijena,Gel za brijanje (200ml),Gillette,4.5
+191,Higijena,Losion poslije brijanja (100ml),Old Spice,5.9
+192,Higijena,Ulošci higijenski (pakovanje),Always,3.9
+193,Higijena,Tamponi (pakovanje),Tampax,4.2
+194,Dječji program,Dječja hrana kašica (125g),Hipp,1.8
+195,Dječji program,Dječji keks (150g),Plazma,2.2
+196,Dječji program,Dječji šampon (200ml),Becutan,3.5
+197,Hrana za kućne ljubimce,Poslastice za pse (100g),Chappi,2.1
+198,Hrana za kućne ljubimce,Pijesak za mačke (5kg),Catsan,7.9
+199,Kućanstvo,Sijalice (2 kom),Osram,5.5
+200,Kućanstvo,Produžni kabal (3m),Brennenstuhl,9.99
+201,Kućanstvo,Lopatica i metlica,Vileda,4.5
+202,Kućanstvo,Kanta za smeće,Curver,12.99
+203,Kućanstvo,Vješalice za odjeću (5 kom),Ikea,3.5
+204,Kućanstvo,Čistač prozora,Ajax,3.8
+205,Kućanstvo,Sredstvo za odčepljivanje odvoda,Mr. Muscle,5.9
+206,Kućanstvo,Rukavice za čišćenje,Vileda,2.8
+207,Kućanstvo,Krpe za čišćenje (3 kom),Vileda,3.2
+208,Kućanstvo,Spužvaste krpe (3 kom),Vileda,2.5
+209,Kućanstvo,Četka za WC,Vileda,4.9
+210,Kućanstvo,Osvježivač WC školjke,Bref,2.9
+211,Kućanstvo,Kese za smeće sa vezicom (15 kom),Paclan,3.5
+212,Kućanstvo,Kese za zamrzavanje (50 kom),Paclan,3.2
+213,Kućanstvo,Vrećice za sendviče (100 kom),Paclan,1.9
+214,Kućanstvo,Škare kuhinjske,Fiskars,5.99
+215,Kućanstvo,Otvarač konzervi,Tefal,7.5
+216,Kućanstvo,Vadičep,Tefal,6.99
+217,Kućanstvo,Gulilica za povrće,Tefal,4.99
+218,Kućanstvo,Daska za rezanje,Curver,8.99
+219,Kućanstvo,Set noževa (3 kom),Tefal,19.99
+220,Kućanstvo,Tiganj (24cm),Tefal,24.99
+221,Kućanstvo,Lonac (3L),Tefal,29.99
+222,Kućanstvo,Šerpa (1.5L),Tefal,19.99
+223,Kućanstvo,Pleh za pečenje,Pyrex,12.99
+224,Kućanstvo,Vatrostalna posuda,Pyrex,15.99
+225,Kućanstvo,Posuda za miješanje (velika),Curver,6.99
+226,Kućanstvo,Cjedilo,Tefal,5.5
+227,Kućanstvo,Kuhinjska vaga,Tefal,14.99
+228,Kućanstvo,Mjerice za kuhanje,Tefal,7.99
+229,Kućanstvo,Otvarač za flaše,Bic,1.5
+230,Kućanstvo,Termos boca (0.5L),Tefal,12.99
+231,Kućanstvo,Plastične čaše (10 kom),Party,2.2
+232,Kućanstvo,Plastični tanjiri (10 kom),Party,2.5
+233,Kućanstvo,Salvete (50 kom),Party,1.8
+234,Kućanstvo,Slamke (50 kom),Party,1.0
+235,Kućanstvo,Svijeće za rođendan,Party,1.5
+236,Kućanstvo,Baloni (10 kom),Party,2.9
+237,Kućanstvo,Ukrasne trake,Party,1.5
+238,Kućanstvo,Poklon vrećica,Party,1.9
+239,Kućanstvo,Papir za zamatanje,Party,2.2
+240,Kućanstvo,Ljepljiva traka,3M,2.5
+241,Kućanstvo,Špaga,Juta,1.2
+242,Kućanstvo,Štipaljke za veš (20 kom),Vileda,1.9
+243,Kućanstvo,Vrećice za usisivač (5 kom),Swirl,8.99
+244,Kućanstvo,Sredstvo za poliranje namještaja,Pledge,4.9
+245,Kućanstvo,Sredstvo za čišćenje tepiha,Vanish,7.9
+246,Kućanstvo,Sredstvo za čišćenje pećnice,Dr. Beckmann,6.5
+247,Kućanstvo,Sredstvo za čišćenje kamenca,Cillit Bang,4.9
+248,Kućanstvo,Sredstvo za dezinfekciju,Sanytol,3.9
+249,Kućanstvo,Osvježivač zraka automatski,Air Wick,9.99
+250,Kućanstvo,Punjenje za osvježivač zraka,Air Wick,5.5
+251,Mliječni proizvodi,Feta sir (200g),President,3.9
+252,Mliječni proizvodi,Mozzarella (125g),Galbani,2.5
+253,Mliječni proizvodi,Ricotta sir (250g),Galbani,3.2
+254,Mliječni proizvodi,Grčki jogurt (150g),Dukat,1.2
+255,Mliječni proizvodi,Kefir (1L),Dukat,2.5
+256,Mliječni proizvodi,Pavlaka za kuhanje (500ml),Meggle,2.8
+257,Mliječni proizvodi,Krem sir (200g),Philadelphia,3.5
+258,Mliječni proizvodi,Mlijeko bez laktoze (1L),Meggle,2.3
+259,Mliječni proizvodi,Mlijeko bademovo (1L),Alpro,3.1
+260,Mliječni proizvodi,Mlijeko sojino (1L),Alpro,2.9
+261,Mliječni proizvodi,Mlijeko zobeno (1L),Alpro,2.9
+262,Mliječni proizvodi,Puding riža (125g),Dukat,0.8
+263,Mliječni proizvodi,Puding vanilija (125g),Dukat,0.8
+264,Mliječni proizvodi,Puding čokolada (125g),Dukat,0.8
+265,Mliječni proizvodi,Voćni jogurt jagoda (150g),Dukat,1.1
+266,Mliječni proizvodi,Voćni jogurt šumsko voće (150g),Dukat,1.1
+267,Mliječni proizvodi,Voćni jogurt breskva (150g),Dukat,1.1
+268,Mliječni proizvodi,Voćni jogurt višnja (150g),Dukat,1.1
+269,Mliječni proizvodi,Voćni jogurt malina (150g),Dukat,1.1
+270,Mliječni proizvodi,Voćni jogurt borovnica (150g),Dukat,1.1
+271,Mliječni proizvodi,Voćni jogurt marelica (150g),Dukat,1.1
+272,Mliječni proizvodi,Voćni jogurt ananas (150g),Dukat,1.1
+273,Mliječni proizvodi,Voćni jogurt kokos (150g),Dukat,1.1
+274,Mliječni proizvodi,Voćni jogurt limun (150g),Dukat,1.1
+275,Mliječni proizvodi,Voćni jogurt naranča (150g),Dukat,1.1
+276,Mliječni proizvodi,Voćni jogurt kivi (150g),Dukat,1.1
+277,Mliječni proizvodi,Voćni jogurt mango (150g),Dukat,1.1
+278,Mliječni proizvodi,Voćni jogurt jabuka-cimet (150g),Dukat,1.1
+279,Mliječni proizvodi,Voćni jogurt kruška (150g),Dukat,1.1
+280,Mliječni proizvodi,Voćni jogurt šljiva (150g),Dukat,1.1
+281,Mliječni proizvodi,Voćni jogurt smokva (150g),Dukat,1.1
+282,Mliječni proizvodi,Voćni jogurt dinja (150g),Dukat,1.1
+283,Mliječni proizvodi,Voćni jogurt lubenica (150g),Dukat,1.1
+284,Mliječni proizvodi,Voćni jogurt crna ribizla (150g),Dukat,1.1
+285,Mliječni proizvodi,Voćni jogurt brusnica (150g),Dukat,1.1
+286,Mliječni proizvodi,Voćni jogurt aronija (150g),Dukat,1.1
+287,Mliječni proizvodi,Voćni jogurt borovnica-kupina (150g),Dukat,1.1
+288,Mliječni proizvodi,Voćni jogurt jagoda-banana (150g),Dukat,1.1
+289,Mliječni proizvodi,Voćni jogurt malina-borovnica (150g),Dukat,1.1
+290,Mliječni proizvodi,Voćni jogurt višnja-trešnja (150g),Dukat,1.1
+291,Mliječni proizvodi,Voćni jogurt breskva-marelica (150g),Dukat,1.1
+292,Mliječni proizvodi,Voćni jogurt ananas-kokos (150g),Dukat,1.1
+293,Mliječni proizvodi,Voćni jogurt mango-marakuja (150g),Dukat,1.1
+294,Mliječni proizvodi,Voćni jogurt jabuka-kruška (150g),Dukat,1.1
+295,Mliječni proizvodi,Voćni jogurt šljiva-cimet (150g),Dukat,1.1
+296,Mliječni proizvodi,Voćni jogurt smokva-orah (150g),Dukat,1.1
+297,Mliječni proizvodi,Voćni jogurt dinja-menta (150g),Dukat,1.1
+298,Mliječni proizvodi,Voćni jogurt lubenica-limeta (150g),Dukat,1.1
+299,Mliječni proizvodi,Voćni jogurt crna ribizla-aronija (150g),Dukat,1.1
+300,Mliječni proizvodi,Voćni jogurt brusnica-narandža (150g),Dukat,1.1
+301,Pekarski proizvodi,Kruh raženi,Klas,1.8
+302,Pekarski proizvodi,Kruh sa sjemenkama,Klas,2.1
+303,Pekarski proizvodi,Ciabatta,Lokalno,1.0
+304,Pekarski proizvodi,Baguette,Lokalno,1.1
+305,Pekarski proizvodi,Pecivo sa sirom,Lokalno,0.8
+306,Pekarski proizvodi,Pecivo sa sjemenkama,Lokalno,0.7
+307,Pekarski proizvodi,Krofna,Lokalno,0.6
+308,Pekarski proizvodi,Štrudla jabuka,Lokalno,1.2
+309,Pekarski proizvodi,Štrudla višnja,Lokalno,1.2
+310,Pekarski proizvodi,Palačinke (gotove 4 kom),Ledo,2.5
+311,Meso,Pileća krila (1kg),Brojler,7.5
+312,Meso,Svinjska rebra (1kg),Mesna Industrija,8.99
+313,Meso,Juneći but (1kg),Mesna Industrija,11.99
+314,Meso,Ramstek (500g),Mesna Industrija,12.5
+315,Meso,Pureći batak (500g),Vindija,5.5
+316,Mesne prerađevine,Pršut narezani (100g),PIK Vrbovec,4.9
+317,Mesne prerađevine,Panceta narezana (100g),PIK Vrbovec,3.9
+318,Mesne prerađevine,Čvarci (200g),Gavrilović,6.5
+319,Mesne prerađevine,Krvavica (kom),Lokalno,3.0
+320,Mesne prerađevine,Dimljena kobasica (kom),Lokalno,4.0
+321,Riba i morski plodovi,Bakalar smrznuti (500g),Ledo,7.9
+322,Riba i morski plodovi,Kozice smrznute (250g),Ledo,8.5
+323,Riba i morski plodovi,Fileti lososa (200g),Ledo,9.99
+324,Riba i morski plodovi,Šaran svježi (kom),Lokalno,8.5
+325,Mliječni proizvodi,Sir trapist (250g),Dukat,5.2
+326,Mliječni proizvodi,Sir parmezan ribani (100g),Galbani,4.9
+327,Mliječni proizvodi,Sir gorgonzola (150g),Galbani,6.5
+328,Mliječni proizvodi,Sir mascarpone (250g),Galbani,4.8
+329,Mliječni proizvodi,Sir cheddar (200g),President,4.2
+330,Mliječni proizvodi,Sir brie (125g),President,5.5
+331,Mliječni proizvodi,Sir camembert (125g),President,5.5
+332,Mliječni proizvodi,Jogurt voćni mix (4x125g),Dukat,3.5
+333,Mliječni proizvodi,Jogurt natur (500g),Dukat,1.8
+334,Mliječni proizvodi,Kefir probiotik (500ml),Dukat,1.6
+335,Mliječni proizvodi,Mlijeko čokoladno (1L),Dukat,2.5
+336,Mliječni proizvodi,Mlijeko vanilija (1L),Dukat,2.5
+337,Mliječni proizvodi,Mlijeko jagoda (1L),Dukat,2.5
+338,Mliječni proizvodi,Mlijeko bez laktoze 0.5% MM (1L),Meggle,2.3
+339,Mliječni proizvodi,Mlijeko kozje (1L),Lokalno,4.5
+340,Mliječni proizvodi,Mlijeko ovčje (1L),Lokalno,4.8
+341,Voće i povrće,Patlidžan (1kg),Lokalno,2.5
+342,Voće i povrće,Tikvice (1kg),Lokalno,2.0
+343,Voće i povrće,Kukuruz klip (kom),Lokalno,1.0
+344,Voće i povrće,Gljive šampinjoni (250g),Lokalno,2.8
+345,Voće i povrće,Brokula (500g),Lokalno,2.5
+346,Voće i povrće,Karfiol (glavica),Lokalno,2.8
+347,Voće i povrće,Špinat (500g),Lokalno,2.2
+348,Voće i povrće,Blitva (500g),Lokalno,2.0
+349,Voće i povrće,Peršun (vezica),Lokalno,0.8
+350,Voće i povrće,Celer (glavica),Lokalno,1.5
+351,Voće i povrće,Poriluk (kom),Lokalno,1.8
+352,Voće i povrće,Rotkvice (vezica),Lokalno,1.0
+353,Voće i povrće,Mladi luk (vezica),Lokalno,0.9
+354,Voće i povrće,Bijeli kupus (1kg),Lokalno,1.1
+355,Voće i povrće,Crveni kupus (1kg),Lokalno,1.2
+356,Voće i povrće,Kelj (glavica),Lokalno,1.5
+357,Voće i povrće,Cvekla (1kg),Lokalno,1.3
+358,Voće i povrće,Kisele paprike (tegla),Podravka,3.5
+359,Voće i povrće,Kiseli kupus (1kg),Lokalno,2.5
+360,Voće i povrće,Kisele gljive (tegla),Podravka,4.5
+361,Tjestenina,Tjestenina fusilli,Barilla,1.7
+362,Tjestenina,Tjestenina farfalle,Barilla,1.7
+363,Tjestenina,Tjestenina tagliatelle,Barilla,2.0
+364,Tjestenina,Njoki (500g),Ledo,2.5
+365,Žitarice,Kuskus (500g),Podravka,2.2
+366,Žitarice,Bulgur (500g),Podravka,2.5
+367,Žitarice,Leća (500g),Podravka,2.8
+368,Žitarice,Slani krekeri (200g),Tuc,1.5
+369,Žitarice,Integralni krekeri (200g),Tuc,1.6
+370,Žitarice,Rižini krekeri (100g),Rice Up!,1.9
+371,Ulja i masti,Svinjska mast (500g),Lokalno,3.5
+372,Ulja i masti,Biljna mast (500g),Zvijezda,2.5
+373,Ulja i masti,Palmino ulje (1L),Zvijezda,3.8
+374,Začini,Cimet mljeveni (50g),Kotanyi,2.2
+375,Začini,Vanilin šećer (10g),Dr. Oetker,0.6
+376,Začini,Prašak za pecivo (10g),Dr. Oetker,0.5
+377,Začini,Sok od limuna (250ml),Kisko,1.5
+378,Začini,Sok od narandže (250ml),Kisko,1.5
+379,Slatkiši i grickalice,Bombonjera (200g),Kraš,7.99
+380,Slatkiši i grickalice,Gumeni bomboni (100g),Haribo,1.5
+381,Slatkiši i grickalice,Lizalica,Chupa Chups,0.5
+382,Slatkiši i grickalice,Čokoladni namaz (400g),Nutella,5.99
+383,Slatkiši i grickalice,Kikiriki puter (350g),Skippy,4.5
+384,Slatkiši i grickalice,Džem od jagoda (370g),Podravka,3.1
+385,Slatkiši i grickalice,Džem od marelica (370g),Podravka,3.1
+386,Slatkiši i grickalice,Džem od višanja (370g),Podravka,3.1
+387,Pića,Sok od paradajza (1L),Vindi,1.9
+388,Pića,Sok od breskve (1L),Vindi,1.8
+389,Pića,Sok od ananasa (1L),Vindi,2.1
+390,Pića,Sok od grejpa (1L),Vindi,2.0
+391,Pića,Ledeni čaj breskva (1.5L),Nestea,2.2
+392,Pića,Ledeni čaj limun (1.5L),Nestea,2.2
+393,Pića,Energetsko piće (0.25L),Red Bull,2.5
+394,Pića,Voda sa okusom (1.5L),Jana,1.5
+395,Pića,Pivo tamno (0.5L),Guinness,2.5
+396,Pića,Bezalkoholno pivo (0.5L),Ožujsko,1.3
+397,Pića,Vino rose (0.75L),Plavac Mali,8.99
+398,Pića,Šampanjac (0.75L),Moet & Chandon,39.99
+399,Pića,Rakija šljivovica (0.7L),Lokalno,15.0
+400,Pića,Votka (0.7L),Absolut,18.0
+401,Konzervirano povrće,Kiseli krastavci (370g),Podravka,1.8
+402,Konzervirano povrće,Kisela paprika (370g),Podravka,2.5
+403,Konzervirano povrće,Kisele gljive (370g),Podravka,3.5
+404,Konzervirano povrće,Grašak konzerva (400g),Bonduelle,1.5
+405,Konzervirano povrće,Kukuruz konzerva (400g),Bonduelle,1.5
+406,Konzervirano povrće,Miješano povrće konzerva (400g),Bonduelle,1.8
+407,Konzervirano povrće,Cikla rezana konzerva (400g),Podravka,1.7
+408,Konzervirano povrće,Krastavci rezani konzerva (400g),Podravka,1.7
+409,Konzervirano povrće,Kiseli kupus rezani (500g),Lokalno,2.0
+410,Smrznuti proizvodi,Smrznuta piletina (1kg),Brojler,6.99
+411,Smrznuti proizvodi,Smrznuta riba (500g),Ledo,5.5
+412,Smrznuti proizvodi,Smrznuto voće mix (450g),Ledo,3.9
+413,Smrznuti proizvodi,Smrznute maline (300g),Ledo,4.5
+414,Smrznuti proizvodi,Smrznute borovnice (300g),Ledo,4.8
+415,Smrznuti proizvodi,Smrznuti kroasan (4 kom),Ledo,2.8
+416,Smrznuti proizvodi,Smrznuti burek meso,Ledo,4.2
+417,Smrznuti proizvodi,Smrznuti burek krompir,Ledo,3.8
+418,Smrznuti proizvodi,Smrznuti burek jabuka,Ledo,3.5
+419,Smrznuti proizvodi,Sladoled kornet (4 kom),Ledo,3.5
+420,Smrznuti proizvodi,Sladoled na štapiću (6 kom),Ledo,4.2
+421,Umaci,Pesto Rosso (190g),Barilla,3.5
+422,Umaci,Sos bolognese (400g),Mutti,2.9
+423,Umaci,Sos carbonara (400g),Barilla,3.2
+424,Umaci,Sos bešamel (500ml),Knorr,2.5
+425,Umaci,Sos za roštilj (250ml),Heinz,3.5
+426,Umaci,Worcestershire sos (150ml),Lea & Perrins,4.9
+427,Umaci,Tabasco sos (60ml),Tabasco,3.9
+428,Umaci,Salsa blaga (300g),Old El Paso,3.2
+429,Umaci,Salsa ljuta (300g),Old El Paso,3.2
+430,Higijena,Vlažne maramice za bebe (80 kom),Pampers,2.5
+431,Higijena,Baby ulje (200ml),Johnson's Baby,3.9
+432,Higijena,Baby puder (100g),Johnson's Baby,2.5
+433,Higijena,Losion za tijelo (400ml),Nivea,5.9
+434,Higijena,Krema za ruke (100ml),Nivea,2.9
+435,Higijena,Krema za lice (50ml),Nivea,4.5
+436,Higijena,Gel za kosu (150ml),Syoss,3.9
+437,Higijena,Lak za kosu (250ml),Syoss,4.2
+438,Higijena,Boja za kosu,Garnier,7.9
+439,Higijena,Pjena za brijanje (200ml),Gillette,3.9
+440,Higijena,Brijač jednokratni (5 kom),Gillette,4.9
+441,Higijena,Aftershave (100ml),Nivea,6.5
+442,Higijena,Voda za ispiranje usta (500ml),Listerine,4.9
+443,Higijena,Konac za zube,Oral-B,2.2
+444,Higijena,Sredstvo za uklanjanje šminke (200ml),Garnier,4.5
+445,Higijena,Blazinice za skidanje šminke (100 kom),Demak'Up,1.8
+446,Higijena,Štapići za uši (200 kom),Lokalno,1.0
+447,Higijena,Turpija za nokte,Scholl,2.5
+448,Higijena,Grickalica za nokte,Lokalno,1.5
+449,Higijena,Škare za nokte,Lokalno,2.9
+450,Higijena,Pinceta,Lokalno,1.8
+451,Dječji program,Dječja kašica voćna (125g),Hipp,1.8
+452,Dječji program,Dječja kašica povrtna (125g),Hipp,1.8
+453,Dječji program,Dječja kašica mesna (125g),Hipp,2.2
+454,Dječji program,Dječji sok (200ml),Hipp,1.5
+455,Dječji program,Dječji čaj (20 vrećica),Hipp,2.0
+456,Dječji program,Dječja krema za guzu (100ml),Sudocrem,5.9
+457,Dječji program,Dječji sapun (100g),Becutan,1.5
+458,Dječji program,Dječji šampon (500ml),Becutan,4.5
+459,Dječji program,Dječji gel za tuširanje (250ml),Becutan,3.8
+460,Dječji program,Dječji puder (100g),Becutan,2.5
+461,Dječji program,Pelene za plivanje (pakovanje),Huggies,9.99
+462,Dječji program,Vlažne maramice sensitive (60 kom),Pampers,2.3
+463,Hrana za kućne ljubimce,Suha hrana za mačke (1kg),Whiskas,4.9
+464,Hrana za kućne ljubimce,Poslastice za mačke (50g),Whiskas,1.5
+465,Hrana za kućne ljubimce,Igračka za pse,Lokalno,3.5
+466,Hrana za kućne ljubimce,Igračka za mačke,Lokalno,2.5
+467,Hrana za kućne ljubimce,Ogrlica za pse,Lokalno,7.9
+468,Hrana za kućne ljubimce,Povodnik za pse,Lokalno,9.9
+469,Kućanstvo,Baterije AAA (4 kom),Duracell,4.5
+470,Kućanstvo,Baterije C (2 kom),Duracell,5.5
+471,Kućanstvo,Baterije D (2 kom),Duracell,6.5
+472,Kućanstvo,Baterije 9V (1 kom),Duracell,4.9
+473,Kućanstvo,Sijalica štedna (kom),Philips,4.9
+474,Kućanstvo,Produžni kabal (5m),Brennenstuhl,12.99
+475,Kućanstvo,Produžni kabal sa prenaponskom zaštitom,Brennenstuhl,19.99
+476,Kućanstvo,Adapter univerzalni,Philips,7.99
+477,Kućanstvo,Baterijska lampa,Philips,9.99
+478,Kućanstvo,Upaljač za roštilj,Bic,2.5
+479,Kućanstvo,Vreće za smeće (50 kom),Paclan,5.9
+480,Kućanstvo,Vreće za reciklažu (10 kom),Paclan,3.5
+481,Kućanstvo,Vreće za bio otpad (10 kom),Paclan,3.0
+482,Kućanstvo,Spužva za kupanje,Lokalno,1.5
+483,Kućanstvo,Četka za ribanje,Vileda,3.5
+484,Kućanstvo,Metla,Vileda,7.9
+485,Kućanstvo,Lopata za snijeg,Lokalno,15.0
+486,Kućanstvo,Kanta za vodu,Curver,6.9
+487,Kućanstvo,Kanta za smeće sa pedalom,Curver,19.99
+488,Kućanstvo,Posuda za cvijeće,Lokalno,4.9
+489,Kućanstvo,Zemlja za cvijeće (5L),Lokalno,3.5
+490,Kućanstvo,Gnojivo za cvijeće,Lokalno,4.2
+491,Kućanstvo,Sjeme za travu (1kg),Lokalno,9.99
+492,Kućanstvo,Crijevo za vodu (10m),Gardena,19.99
+493,Kućanstvo,Prskalica za crijevo,Gardena,7.99
+494,Kućanstvo,Rukavice za vrt,Gardena,5.5
+495,Kućanstvo,Male grablje,Gardena,6.99
+496,Kućanstvo,Lopatica za vrt,Gardena,5.99
+497,Kućanstvo,Škare za obrezivanje,Gardena,12.99
+498,Kućanstvo,Kanta za zalijevanje,Lokalno,8.9
+499,Kućanstvo,Mreža za komarce,Lokalno,9.99
+500,Kućanstvo,Sredstvo protiv insekata,Raid,5.9
+501,Mliječni proizvodi,Sirni namaz (150g),ABC,2.2
+502,Mliječni proizvodi,Krem sir sa začinskim biljem (150g),Philadelphia,3.8
+503,Mliječni proizvodi,Mlijeko u prahu (200g),Nestle,3.5
+504,Mliječni proizvodi,Kondenzovano mlijeko (400g),Nestle,3.9
+505,Mliječni proizvodi,Šlag pjena u spreju (250g),Meggle,3.2
+506,Mliječni proizvodi,Puding od riže sa cimetom (125g),Dukat,0.9
+507,Mliječni proizvodi,Puding od čokolade sa šlagom (125g),Dukat,1.0
+508,Mliječni proizvodi,Voćni jogurt sa žitaricama (180g),Dukat,1.5
+509,Mliječni proizvodi,Proteinski jogurt (180g),Dukat,1.8
+510,Mliječni proizvodi,Kefir sa voćem (500ml),Dukat,1.7
+511,Pekarski proizvodi,Toast kruh (500g),Klas,2.2
+512,Pekarski proizvodi,Hamburger pecivo (4 kom),Lokalno,1.8
+513,Pekarski proizvodi,Hot dog pecivo (4 kom),Lokalno,1.7
+514,Pekarski proizvodi,Integralni krekeri (250g),Kraš,2.0
+515,Pekarski proizvodi,Keksi sa maslacem (200g),Kraš,2.5
+516,Pekarski proizvodi,Keksi sa čokoladnim komadićima (200g),Kraš,2.8
+517,Pekarski proizvodi,Muffin čokoladni,Lokalno,1.5
+518,Pekarski proizvodi,Muffin borovnica,Lokalno,1.5
+519,Pekarski proizvodi,Pita sa jabukama (kom),Lokalno,2.0
+520,Pekarski proizvodi,Pita sa višnjama (kom),Lokalno,2.0
+521,Meso,Svinjski file (500g),Mesna Industrija,7.99
+522,Meso,Juneći gulaš (500g),Mesna Industrija,6.5
+523,Meso,Teleći kotlet (kom),Mesna Industrija,9.99
+524,Meso,Jagnjeći kotlet (kom),Mesna Industrija,11.99
+525,Meso,Pileća jetra (500g),Brojler,2.9
+526,Mesne prerađevine,Kranjska kobasica (300g),Gavrilović,4.5
+527,Mesne prerađevine,Slanina narezana (200g),PIK Vrbovec,4.2
+528,Mesne prerađevine,Čajna kobasica (300g),Podravka,4.9
+529,Mesne prerađevine,Suha šunka (200g),PIK Vrbovec,6.5
+530,Mesne prerađevine,Mortadela (250g),Gavrilović,3.5
+531,Riba i morski plodovi,Škampi smrznuti (250g),Ledo,9.99
+532,Riba i morski plodovi,Dagnje smrznute (500g),Ledo,5.9
+533,Riba i morski plodovi,Pastrmka dimljena (100g),Lokalno,4.9
+534,Riba i morski plodovi,Losos dimljeni (100g),Rio Mare,7.99
+535,Voće i povrće,Avokado (kom),Lokalno,2.5
+536,Voće i povrće,Mango (kom),Lokalno,3.5
+537,Voće i povrće,Ananas (kom),Lokalno,3.9
+538,Voće i povrće,Kivi (1kg),Lokalno,4.5
+539,Voće i povrće,Grejp (kom),Lokalno,1.8
+540,Voće i povrće,Nar (kom),Lokalno,2.5
+541,Voće i povrće,Datulje (200g),Lokalno,3.9
+542,Voće i povrće,Suhe šljive (200g),Podravka,2.5
+543,Voće i povrće,Suhe kajsije (200g),Podravka,3.2
+544,Voće i povrće,Bademi (200g),Almondy,5.9
+545,Voće i povrće,Orasi (200g),Almondy,6.5
+546,Voće i povrće,Lješnjaci (200g),Almondy,6.9
+547,Voće i povrće,Indijski oraščići (200g),Almondy,7.5
+548,Voće i povrće,Pistacije (200g),Almondy,8.9
+549,Tjestenina,Tjestenina orzo,Barilla,1.6
+550,Tjestenina,Tjestenina gnocchi (500g),Ledo,2.5
+551,Žitarice,Kukuruzne pahuljice (250g),Nestle,2.5
+552,Žitarice,Čokoladne pahuljice (250g),Nestle,2.8
+553,Žitarice,Rižine pahuljice (250g),Nestle,2.2
+554,Žitarice,Granola (300g),Nestle,3.9
+555,Ulja i masti,Svinjska mast (1kg),Lokalno,6.5
+556,Ulja i masti,Maslinovo ulje (0.5L),Zvijezda,7.5
+557,Ulja i masti,Ulje avokada (250ml),Bio Zone,9.9
+558,Ulja i masti,Ulje sjemenki grožđa (1L),Floriol,4.5
+559,Začini,Kumin mljeveni (50g),Kotanyi,2.5
+560,Začini,Korijander mljeveni (50g),Kotanyi,2.2
+561,Začini,Curry prah (50g),Kotanyi,2.8
+562,Začini,Čili prah (50g),Kotanyi,2.5
+563,Začini,Đumbir mljeveni (50g),Kotanyi,2.8
+564,Začini,Bijeli luk u prahu (50g),Kotanyi,2.0
+565,Začini,Luk u prahu (50g),Kotanyi,2.0
+566,Začini,Kvasac u prahu (10g),Dr. Oetker,0.6
+567,Začini,Soda bikarbona (500g),Lokalno,1.5
+568,Slatkiši i grickalice,Čokolada sa lješnjacima (80g),Milka,1.8
+569,Slatkiši i grickalice,Čokolada sa keksom (80g),Milka,1.8
+570,Slatkiši i grickalice,Čokolada sa jagodama (80g),Milka,1.8
+571,Slatkiši i grickalice,Čokolada sa rižom (80g),Milka,1.8
+572,Slatkiši i grickalice,Bomboni voćni (100g),Haribo,1.5
+573,Slatkiši i grickalice,Žvakaće gume sa okusom mente (pakovanje),Orbit,1.2
+574,Slatkiši i grickalice,Čips slani (150g),Lay's,2.2
+575,Slatkiši i grickalice,Čips luk i pavlaka (150g),Lay's,2.2
+576,Slatkiši i grickalice,Pereci (200g),Lokalno,1.5
+577,Slatkiši i grickalice,Štapići (200g),Lokalno,1.5
+578,Slatkiši i grickalice,Praline (150g),Ferrero Rocher,5.99
+579,Slatkiši i grickalice,Torta gotova (500g),Ledo,9.99
+580,Slatkiši i grickalice,Kolačići (250g),Lokalno,3.5
+581,Pića,Sok od borovnice (1L),Vindi,2.5
+582,Pića,Sok od višnje (1L),Vindi,2.1
+583,Pića,Sok od breskve (1L),Vindi,1.9
+584,Pića,Sok od šljive (1L),Vindi,1.8
+585,Pića,Sok od grožđa (1L),Vindi,2.2
+586,Pića,Sok od nara (1L),Vindi,2.8
+587,Pića,Nektar marelica (1L),Vindi,1.9
+588,Pića,Nektar breskva (1L),Vindi,1.9
+589,Pića,Nektar višnja (1L),Vindi,2.0
+590,Pića,Nektar jagoda (1L),Vindi,2.2
+591,Pića,Sirup za sok (1L),Cedevita,4.9
+592,Pića,Voda sa okusom limuna (1.5L),Jana,1.6
+593,Pića,Voda sa okusom jagode (1.5L),Jana,1.6
+594,Pića,Voda sa okusom jabuke (1.5L),Jana,1.6
+595,Pića,Pivo bezalkoholno (0.33L),Ožujsko,1.1
+596,Pića,Pivo pšenično (0.5L),Paulaner,2.8
+597,Pića,Pivo tamno (0.33L),Guinness,1.8
+598,Pića,Vino pjenušavo (0.75L),Prosecco,12.99
+599,Pića,Gin (0.7L),Bombay Sapphire,22.0
+600,Pića,Whisky (0.7L),Johnnie Walker,25.0
+601,Konzervirano povrće,Kiseli luk (370g),Podravka,2.0
+602,Konzervirano povrće,Kiseli paradajz (370g),Podravka,2.5
+603,Konzervirano povrće,Kiseli krastavci mini (370g),Podravka,2.2
+604,Konzervirano povrće,Kisele paprike punjene (370g),Podravka,3.9
+605,Konzervirano povrće,Kisele masline (200g),Lokalno,3.5
+606,Konzervirano povrće,Crne masline (200g),Lokalno,3.5
+607,Konzervirano povrće,Zelene masline punjene (200g),Lokalno,3.8
+608,Konzervirano povrće,Kapari (100g),Lokalno,2.9
+609,Konzervirano povrće,Sušeni paradajz u ulju (200g),Lokalno,4.5
+610,Smrznuti proizvodi,Smrznuti riblji štapići (300g),Ledo,3.5
+611,Smrznuti proizvodi,Smrznuti panirani sir (250g),Ledo,4.2
+612,Smrznuti proizvodi,Smrznuti kroket (500g),Ledo,2.8
+613,Smrznuti proizvodi,Smrznute palačinke (gotove 4 kom),Ledo,2.5
+614,Smrznuti proizvodi,Smrznuti voćni mix za smoothie (300g),Ledo,4.2
+615,Smrznuti proizvodi,Smrznuti voćni jogurt (150g),Ledo,1.8
+616,Smrznuti proizvodi,Sladoled na štapiću čokolada (6 kom),Ledo,4.5
+617,Smrznuti proizvodi,Sladoled kornet vanilija (4 kom),Ledo,3.8
+618,Smrznuti proizvodi,Sladoled obiteljsko pakovanje (1.5L),Ledo,6.99
+619,Umaci,Umak za tjesteninu od gljiva (400g),Barilla,3.0
+620,Umaci,Umak za tjesteninu od povrća (400g),Barilla,2.8
+621,Umaci,Umak za tjesteninu od sira (400g),Barilla,3.5
+622,Umaci,Umak za pizzu (400g),Mutti,2.5
+623,Umaci,Umak od hrena (150g),Podravka,2.2
+624,Umaci,Umak od bijelog luka (200g),Zvijezda,2.5
+625,Umaci,Umak od čilija (200ml),Tabasco,4.5
+626,Umaci,Soja sos (250ml),Kikkoman,3.9
+627,Umaci,Teriyaki sos (250ml),Kikkoman,4.2
+628,Higijena,Šampon protiv peruti (400ml),Head & Shoulders,5.9
+629,Higijena,Regenerator za kosu (200ml),Pantene,4.5
+630,Higijena,Maska za kosu (200ml),Garnier,5.5
+631,Higijena,Sprej za kosu (200ml),Syoss,4.5
+632,Higijena,Pjena za kosu (200ml),Syoss,4.2
+633,Higijena,Gel za tuširanje muški (250ml),Old Spice,3.9
+634,Higijena,Gel za tuširanje ženski (250ml),Dove,3.9
+635,Higijena,Dezodorans roll-on (50ml),Rexona,3.5
+636,Higijena,Dezodorans stick (40ml),Old Spice,4.5
+637,Higijena,Parfem (30ml),Lokalno,19.99
+638,Higijena,Kolonjska voda (100ml),Old Spice,12.99
+639,Higijena,Voda za usta sa fluorom (500ml),Listerine,5.2
+640,Higijena,Četkica za zube električna,Oral-B,29.99
+641,Higijena,Punjenje za električnu četkicu (2 kom),Oral-B,9.99
+642,Higijena,Pasta za zube za osjetljive zube (75ml),Sensodyne,3.5
+643,Higijena,Pasta za zube za izbjeljivanje (75ml),Colgate,3.2
+644,Higijena,Sredstvo za uklanjanje laka za nokte (100ml),Lokalno,1.8
+645,Higijena,Blazinice za nokte (50 kom),Lokalno,1.2
+646,Higijena,Vlažne maramice za dezinfekciju (20 kom),Sanytol,2.5
+647,Higijena,Gel za dezinfekciju ruku (100ml),Sanytol,2.9
+648,Higijena,Sapun za ruke antibakterijski (500ml),Palmolive,3.5
+649,Dječji program,Dječji sapun tekući (250ml),Becutan,2.9
+650,Dječji program,Dječji losion za tijelo (200ml),Becutan,3.9
+651,Dječji program,Dječji šampon i gel za tuširanje 2u1 (400ml),Becutan,4.9
+652,Dječji program,Dječji krevetić (putni),Lokalno,49.99
+653,Dječji program,Dječja kolica,Lokalno,99.99
+654,Dječji program,Dječja sjedalica za auto,Lokalno,79.99
+655,Dječji program,Dječji bouncer,Lokalno,39.99
+656,Dječji program,Dječja igračka zvečka,Lokalno,5.9
+657,Dječji program,Dječja igračka guralica,Lokalno,19.99
+658,Dječji program,Dječja knjiga sa slikama,Lokalno,7.5
+659,Dječji program,Dječji flasteri (pakovanje),Hansaplast,2.5
+660,Hrana za kućne ljubimce,Hrana za ptice (1kg),Lokalno,3.5
+661,Hrana za kućne ljubimce,Hrana za ribice (100g),Tetra,4.9
+662,Hrana za kućne ljubimce,Kavez za ptice,Lokalno,29.99
+663,Hrana za kućne ljubimce,Akvarij (10L),Lokalno,39.99
+664,Hrana za kućne ljubimce,Posuda za hranu za pse,Lokalno,6.9
+665,Hrana za kućne ljubimce,Posuda za vodu za mačke,Lokalno,5.9
+666,Kućanstvo,Set alata za kućanstvo (10 kom),Stanley,29.99
+667,Kućanstvo,Čekić,Stanley,9.99
+668,Kućanstvo,Kliješta,Stanley,7.99
+669,Kućanstvo,Odvijač križni,Stanley,3.5
+670,Kućanstvo,Odvijač ravni,Stanley,3.5
+671,Kućanstvo,Set imbus ključeva,Stanley,8.99
+672,Kućanstvo,Bušilica (ručni),Lokalno,19.99
+673,Kućanstvo,Set tipli i vijaka,Lokalno,4.5
+674,Kućanstvo,Izolir traka,3M,1.8
+675,Kućanstvo,Silikonska traka,3M,2.5
+676,Kućanstvo,Ljepilo univerzalno,UHU,3.5
+677,Kućanstvo,Ljepilo za drvo,UHU,4.2
+678,Kućanstvo,Ljepilo za papir,UHU,1.5
+679,Kućanstvo,Marker trajni,Sharpie,2.5
+680,Kućanstvo,Marker za bijelu ploču,Pilot,2.8
+681,Kućanstvo,Bijela ploča (mala),Lokalno,9.99
+682,Kućanstvo,Spužva za bijelu ploču,Lokalno,1.5
+683,Kućanstvo,Magneti za bijelu ploču (4 kom),Lokalno,2.5
+684,Kućanstvo,Kalkulator,Casio,12.99
+685,Kućanstvo,Škare za papir,Fiskars,4.5
+686,Kućanstvo,Bušilica za papir,Lokalno,6.99
+687,Kućanstvo,Klamerica,Lokalno,4.99
+688,Kućanstvo,Klamerice (kutija),Lokalno,1.5
+689,Kućanstvo,Spajalice (kutija),Lokalno,1.0
+690,Kućanstvo,Selotejp,3M,1.5
+691,Kućanstvo,Dvostrana traka,3M,2.8
+692,Kućanstvo,Vreće za smeće sa ručkama (20 kom),Paclan,3.9
+693,Kućanstvo,Vreće za smeće sa vezicom (30 kom),Paclan,4.9
+694,Kućanstvo,Rukavice za jednokratnu upotrebu (100 kom),Lokalno,6.9
+695,Kućanstvo,Kuhinjske krpe (3 kom),Vileda,4.5
+696,Kućanstvo,Krpe za pod (3 kom),Vileda,3.9
+697,Kućanstvo,Mop,Vileda,12.99
+698,Kućanstvo,Kanta za mop,Vileda,9.99
+699,Kućanstvo,Čistač za podove (1L),Ajax,4.5
+700,Kućanstvo,Sredstvo za čišćenje kuhinje (750ml),Cif,3.9
+701,Kućanstvo,Sredstvo za čišćenje drvenih površina (750ml),Pledge,4.2
+702,Kućanstvo,Sredstvo za čišćenje nehrđajućeg čelika (250ml),Cif,3.5
+703,Kućanstvo,Sredstvo za čišćenje odvoda (1L),Mr. Muscle,6.5
+704,Kućanstvo,Osvježivač zraka gel,Glade,3.9
+705,Kućanstvo,Mirisne vrećice za ormar,Glade,2.5
+706,Kućanstvo,Svijeće čajne (10 kom),Lokalno,1.5
+707,Kućanstvo,Šibice duge,Lokalno,0.8
+708,Kućanstvo,Plastične posude za zamrzavanje (3 kom),Curver,8.99
+709,Kućanstvo,Staklene posude za hranu (3 kom),Pyrex,14.99
+710,Kućanstvo,Termos šalica (0.3L),Tefal,9.99
+711,Kućanstvo,Čaše za vino (2 kom),Pasabahce,7.99
+712,Kućanstvo,Čaše za pivo (2 kom),Pasabahce,6.99
+713,Kućanstvo,Šoljice za čaj (2 kom),Bormioli Rocco,5.99
+714,Kućanstvo,Kuhinjska pregača,Lokalno,7.9
+715,Kućanstvo,Kuhinjska rukavica,Lokalno,4.9
+716,Kućanstvo,Kuhinjska krpa (1 kom),Vileda,2.5
+717,Kućanstvo,Podmetači za stol (4 kom),Lokalno,5.9
+718,Kućanstvo,Stolnjak (jednokratni),Party,3.5
+719,Kućanstvo,Vrećice za usisivač (3 kom),Swirl,7.5
+720,Kućanstvo,Filteri za vodu (pakovanje),Brita,14.99
+721,Kućanstvo,Boca za vodu (sportska),Lokalno,9.99
+722,Kućanstvo,Kutija za kruh,Curver,15.99
+723,Kućanstvo,Držač za papirnate ubruse,Lokalno,8.9
+724,Kućanstvo,Držač za toalet papir,Lokalno,7.9
+725,Kućanstvo,Kanta za smeće za kupatilo,Curver,9.99
+726,Kućanstvo,Četka za kosu,Lokalno,4.5
+727,Kućanstvo,Češalj,Lokalno,2.5
+728,Kućanstvo,Fen za kosu,Philips,29.99
+729,Kućanstvo,Pegla za kosu,Philips,39.99
+730,Kućanstvo,Aparat za brijanje (jednokratni 5 kom),Gillette,5.5
+731,Kućanstvo,Žileti za brijanje (5 kom),Gillette,7.9
+732,Kućanstvo,Krema za depilaciju (100ml),Veet,6.9
+733,Kućanstvo,Vosak za depilaciju,Veet,8.5
+734,Kućanstvo,Trake za depilaciju,Veet,4.9
+735,Kućanstvo,Sredstvo za uklanjanje dlaka (sprej),Veet,7.5
+736,Kućanstvo,Mrežica za pranje veša,Lokalno,2.0
+737,Kućanstvo,Štipaljke za veš (50 kom),Vileda,3.5
+738,Kućanstvo,Sušilo za veš (stalak),Lokalno,19.99
+739,Kućanstvo,Daska za peglanje,Lokalno,24.99
+740,Kućanstvo,Pegla na paru,Philips,49.99
+741,Kućanstvo,Sredstvo za čišćenje pegle,Dr. Beckmann,3.5
+742,Kućanstvo,Vrećice za lavandu (5 kom),Lokalno,2.5
+743,Kućanstvo,Osvježivač ormara,Glade,3.2
+744,Kućanstvo,Sredstvo protiv moljaca,Raid,2.9
+745,Kućanstvo,Sredstvo protiv žohara,Raid,4.5
+746,Kućanstvo,Sredstvo protiv mrava,Raid,3.9
+747,Kućanstvo,Sredstvo protiv miševa,Raid,5.5
+748,Kućanstvo,Zamka za miševe (2 kom),Lokalno,3.0
+749,Kućanstvo,Ljepljiva traka za muhe,Lokalno,1.0
+750,Kućanstvo,Sredstvo za čišćenje roštilja,Mr. Proper,5.5
+751,Mliječni proizvodi,Krem sir sa vlascem (150g),ABC,2.3
+752,Mliječni proizvodi,Krem sir sa paprikom (150g),ABC,2.3
+753,Mliječni proizvodi,Krem sir sa šunkom (150g),ABC,2.5
+754,Mliječni proizvodi,Mlijeko u prahu za kafu (150g),Nestle,2.8
+755,Mliječni proizvodi,Kondenzovano mlijeko light (400g),Nestle,3.9
+756,Mliječni proizvodi,Šlag pjena u prahu (80g),Dr. Oetker,1.8
+757,Mliječni proizvodi,Puding od vanilije sa šlagom (125g),Dukat,1.0
+758,Mliječni proizvodi,Voćni jogurt sa chia sjemenkama (180g),Dukat,1.6
+759,Mliječni proizvodi,Proteinski jogurt sa voćem (180g),Dukat,1.9
+760,Mliječni proizvodi,Kefir sa žitaricama (500ml),Dukat,1.8
+761,Pekarski proizvodi,Kruh bez glutena (400g),Schär,4.9
+762,Pekarski proizvodi,Pecivo bez glutena (2 kom),Schär,2.5
+763,Pekarski proizvodi,Keksi bez glutena (150g),Schär,3.5
+764,Pekarski proizvodi,Tjestenina bez glutena (250g),Barilla,3.9
+765,Pekarski proizvodi,Brašno bez glutena (500g),Schär,3.9
+766,Pekarski proizvodi,Kruh prepečenac (250g),Klas,1.9
+767,Pekarski proizvodi,Dvopek (200g),Klas,1.8
+768,Pekarski proizvodi,Grissini (125g),Barilla,1.5
+769,Pekarski proizvodi,Kruh za tostove integralni (500g),Klas,2.5
+770,Pekarski proizvodi,Kruh za tostove kukuruzni (500g),Klas,2.4
+771,Meso,Svinjski odrezak (500g),Mesna Industrija,7.5
+772,Meso,Juneći odrezak (500g),Mesna Industrija,8.99
+773,Meso,Teleći odrezak (500g),Mesna Industrija,10.99
+774,Meso,Jagnjeći but (1kg),Mesna Industrija,14.99
+775,Meso,Pileći batak i zabatak (1kg),Brojler,6.5
+776,Mesne prerađevine,Čajna kobasica mini (100g),Podravka,2.5
+777,Mesne prerađevine,Salami milano (100g),Gavrilović,3.9
+778,Mesne prerađevine,Salami napoli (100g),Gavrilović,3.9
+779,Mesne prerađevine,Kulen narezani (80g),Gavrilović,3.5
+780,Mesne prerađevine,Kobasica za roštilj (500g),Lokalno,4.9
+781,Riba i morski plodovi,Hobotnica smrznuta (500g),Ledo,14.99
+782,Riba i morski plodovi,Kalamari smrznuti (500g),Ledo,8.99
+783,Riba i morski plodovi,Morski plodovi mix smrznuti (500g),Ledo,9.99
+784,Riba i morski plodovi,Srdela svježa (500g),Lokalno,3.5
+785,Riba i morski plodovi,Brancin svježi (kom),Lokalno,12.0
+786,Voće i povrće,Kelj pupčar (500g),Lokalno,3.5
+787,Voće i povrće,Artičoke (kom),Lokalno,2.8
+788,Voće i povrće,Šparoge (vezica),Lokalno,4.9
+789,Voće i povrće,Gljive bukovače (250g),Lokalno,3.5
+790,Voće i povrće,Gljive vrganji (250g),Lokalno,7.9
+791,Voće i povrće,Kesten (500g),Lokalno,4.5
+792,Voće i povrće,Lješnjaci u ljusci (500g),Lokalno,8.9
+793,Voće i povrće,Orasi u ljusci (500g),Lokalno,9.5
+794,Voće i povrće,Bademi u ljusci (500g),Lokalno,10.9
+795,Voće i povrće,Suhe brusnice (150g),Podravka,3.5
+796,Voće i povrće,Suhe grožđice (200g),Podravka,2.8
+797,Voće i povrće,Suhe borovnice (150g),Podravka,4.2
+798,Voće i povrće,Suhe trešnje (150g),Podravka,4.5
+799,Voće i povrće,Suhe marelice (200g),Podravka,3.5
+800,Voće i povrće,Suhe jabuke (150g),Podravka,2.9
+801,Tjestenina,Tjestenina cannelloni (250g),Barilla,2.5
+802,Tjestenina,Tjestenina ravioli (250g),Barilla,3.9
+803,Tjestenina,Tjestenina tortellini (250g),Barilla,3.9
+804,Žitarice,Quinoa (500g),Bio Zone,5.9
+805,Žitarice,Heljda (500g),Bio Zone,4.5
+806,Žitarice,Proso (500g),Bio Zone,3.9
+807,Žitarice,Amarant (500g),Bio Zone,6.5
+808,Žitarice,Čia sjemenke (200g),Bio Zone,4.9
+809,Žitarice,Lanene sjemenke (200g),Bio Zone,3.5
+810,Žitarice,Sjemenke suncokreta (200g),Lokalno,2.5
+811,Žitarice,Sjemenke bundeve (200g),Lokalno,3.9
+812,Žitarice,Sezam (100g),Kotanyi,2.2
+813,Ulja i masti,Ghee maslac (200g),Bio Zone,8.9
+814,Ulja i masti,Ulje konoplje (250ml),Bio Zone,12.9
+815,Ulja i masti,Ulje crnog kima (100ml),Bio Zone,15.9
+816,Ulja i masti,Ulje makadamije (250ml),Bio Zone,18.9
+817,Začini,Šafran (1g),Kotanyi,9.99
+818,Začini,Kardamom (20g),Kotanyi,4.9
+819,Začini,Zvijezdasti anis (20g),Kotanyi,3.9
+820,Začini,Klinčić (20g),Kotanyi,2.8
+821,Začini,Muškatni oraščić (20g),Kotanyi,3.5
+822,Začini,Piment (20g),Kotanyi,2.5
+823,Začini,Majčina dušica (20g),Kotanyi,1.8
+824,Začini,Ružmarin (20g),Kotanyi,1.8
+825,Začini,Kadulja (20g),Kotanyi,1.8
+826,Slatkiši i grickalice,Čokolada tamna 70% (100g),Lindt,3.5
+827,Slatkiši i grickalice,Čokolada bijela (80g),Milka,1.8
+828,Slatkiši i grickalice,Čokolada sa cijelim lješnjacima (100g),Milka,2.2
+829,Slatkiši i grickalice,Bomboni za kašalj (100g),Ricola,2.5
+830,Slatkiši i grickalice,Žvakaće gume bez šećera (pakovanje),Orbit,1.3
+831,Slatkiši i grickalice,Kikiriki u ljusci (250g),Lokalno,2.8
+832,Slatkiši i grickalice,Bademi prženi slani (100g),Almondy,3.5
+833,Slatkiši i grickalice,Indijski oraščići prženi slani (100g),Almondy,4.5
+834,Slatkiši i grickalice,Pistacije pržene slane (100g),Almondy,5.5
+835,Slatkiši i grickalice,Čokoladni namaz sa lješnjacima (400g),Lino Lada,4.9
+836,Slatkiši i grickalice,Med bagremov (500g),Apis,7.5
+837,Slatkiši i grickalice,Džem od borovnica (370g),Podravka,3.5
+838,Slatkiši i grickalice,Džem od malina (370g),Podravka,3.5
+839,Slatkiši i grickalice,Džem od kupina (370g),Podravka,3.5
+840,Pića,Sok od cikle (1L),Lokalno,3.5
+841,Pića,Sok od mrkve (1L),Lokalno,2.9
+842,Pića,Sok od celera (1L),Lokalno,3.2
+843,Pića,Sok od špinata (1L),Lokalno,3.8
+844,Pića,Sok od kelja (1L),Lokalno,3.9
+845,Pića,Smoothie zeleni (250ml),Lokalno,2.5
+846,Pića,Smoothie crveni (250ml),Lokalno,2.5
+847,Pića,Biljni čaj za detoksikaciju (20 vrećica),Podravka,2.5
+848,Pića,Biljni čaj za spavanje (20 vrećica),Podravka,2.5
+849,Pića,Biljni čaj za probavu (20 vrećica),Podravka,2.5
+850,Pića,Kava bez kofeina (200g),Franck,4.8
+851,Pića,Kava u zrnu (250g),Franck,5.5
+852,Pića,Espresso kava (250g),Franck,6.5
+853,Pića,Kapsule za kavu (10 kom),Nescafe Dolce Gusto,4.9
+854,Pića,Kapsule za kavu (10 kom),Nespresso,5.5
+855,Pića,Mlijeko za kavu (200ml),Meggle,1.5
+856,Pića,Šećer u kockama (500g),Agrokomerc,2.0
+857,Pića,Smeđi šećer (500g),Agrokomerc,2.5
+858,Pića,Med u vrećicama (10 kom),Apis,1.8
+859,Pića,Limun u vrećicama (10 kom),Lokalno,1.5
+860,Konzervirano povrće,Kiseli luk s paprikom (370g),Podravka,2.2
+861,Konzervirano povrće,Kiseli paradajz s bijelim lukom (370g),Podravka,2.8
+862,Konzervirano povrće,Kiseli krastavci s koprom (370g),Podravka,2.5
+863,Konzervirano povrće,Kisele paprike s feferonima (370g),Podravka,4.2
+864,Konzervirano povrće,Kiseli feferoni (200g),Podravka,3.5
+865,Konzervirano povrće,Kiseli kupus ribani (500g),Lokalno,2.2
+866,Konzervirano povrće,Kiseli kupus glavice (1kg),Lokalno,3.0
+867,Konzervirano povrće,Kisela repa (500g),Lokalno,2.5
+868,Konzervirano povrće,Kisela cikla (500g),Lokalno,2.0
+869,Smrznuti proizvodi,Smrznuti panirani oslić (300g),Ledo,4.5
+870,Smrznuti proizvodi,Smrznuti panirani škampi (250g),Ledo,10.99
+871,Smrznuti proizvodi,Smrznuti panirani kalamari (250g),Ledo,9.99
+872,Smrznuti proizvodi,Smrznuti voćni mix za džem (500g),Ledo,4.5
+873,Smrznuti proizvodi,Smrznuti voćni mix za pite (500g),Ledo,4.2
+874,Smrznuti proizvodi,Smrznuti voćni mix za kolače (500g),Ledo,4.2
+875,Smrznuti proizvodi,Sladoled u kutiji (500ml),Ledo,3.9
+876,Smrznuti proizvodi,Sladoled u čaši (150ml),Ledo,1.5
+877,Smrznuti proizvodi,Sladoled torta (800g),Ledo,14.99
+878,Umaci,Umak od tartufa (90g),Lokalno,15.0
+879,Umaci,Umak od vrganja (180g),Lokalno,12.0
+880,Umaci,Umak od brusnica (200g),Lokalno,4.9
+881,Umaci,Umak od jabuka (300g),Lokalno,2.5
+882,Umaci,Umak od šljiva (300g),Lokalno,2.8
+883,Umaci,Umak od višnje (300g),Lokalno,3.0
+884,Umaci,Umak od jagoda (300g),Lokalno,3.2
+885,Umaci,Umak od malina (300g),Lokalno,3.5
+886,Umaci,Umak od kupina (300g),Lokalno,3.5
+887,Higijena,Šampon za suho pranje kose (200ml),Batiste,5.9
+888,Higijena,Regenerator u spreju (200ml),Pantene,4.9
+889,Higijena,Serum za kosu (50ml),Garnier,6.5
+890,Higijena,Ulje za kosu (100ml),Lokalno,7.9
+891,Higijena,Krema za ruke i nokte (100ml),Nivea,3.2
+892,Higijena,Krema za stopala (75ml),Scholl,4.9
+893,Higijena,Piling za tijelo (200ml),Dove,5.5
+894,Higijena,Maska za lice (jednokratna),Garnier,2.5
+895,Higijena,Tonik za lice (200ml),Nivea,4.2
+896,Higijena,Micelarna voda (400ml),Garnier,6.9
+897,Higijena,Gel za intimnu higijenu (250ml),Lactacyd,4.9
+898,Higijena,Sapun za intimnu higijenu (100g),Lactacyd,2.5
+899,Higijena,Vlažne maramice za intimnu higijenu (20 kom),Lactacyd,1.8
+900,Higijena,Higijenski ulošci dnevni (pakovanje),Always,2.5
+901,Higijena,Higijenski ulošci noćni (pakovanje),Always,4.5
+902,Higijena,Tamponi sa aplikatorom (pakovanje),Tampax,4.5
+903,Higijena,Vlažne maramice za čišćenje WC školjke (40 kom),Domestos,2.8
+904,Higijena,Gel za čišćenje WC školjke (750ml),Domestos,3.9
+905,Higijena,Tablete za čišćenje WC školjke (6 kom),Bref,3.5
+906,Dječji program,Dječja krema za sunčanje (100ml),Nivea,7.9
+907,Dječji program,Dječji sprej protiv komaraca (100ml),Chicco,6.5
+908,Dječji program,Dječja bočica za vodu (300ml),Philips Avent,8.9
+909,Dječji program,Dječja duda varalica (2 kom),Philips Avent,5.9
+910,Dječji program,Dječja četkica za zube (mekana),Oral-B,2.9
+911,Dječji program,Dječja pasta za zube (50ml),Colgate,2.5
+912,Dječji program,Dječji sapun za kupanje (250ml),Johnson's Baby,3.5
+913,Dječji program,Dječji šampon bez suza (250ml),Johnson's Baby,3.5
+914,Dječji program,Dječji losion za tijelo (250ml),Johnson's Baby,4.2
+915,Hrana za kućne ljubimce,Hrana za kornjače (50g),Tetra,3.5
+916,Hrana za kućne ljubimce,Hrana za hrčke (500g),Lokalno,2.9
+917,Hrana za kućne ljubimce,Hrana za zečeve (1kg),Lokalno,3.9
+918,Hrana za kućne ljubimce,Poslastice za mačke (tekuće 4 kom),Whiskas,2.5
+919,Hrana za kućne ljubimce,Igračka za pse (lopta),Lokalno,4.5
+920,Hrana za kućne ljubimce,Igračka za mačke (miš),Lokalno,1.8
+921,Kućanstvo,Set za šivanje (mali),Lokalno,4.9
+922,Kućanstvo,Konac za šivanje (razne boje),Lokalno,3.5
+923,Kućanstvo,Igle za šivanje (pakovanje),Lokalno,1.0
+924,Kućanstvo,Dugmad (razne veličine),Lokalno,2.5
+925,Kućanstvo,Čičak traka (1m),Lokalno,1.8
+926,Kućanstvo,Gumica za šivanje (5m),Lokalno,1.5
+927,Kućanstvo,Škare za tkaninu,Fiskars,9.99
+928,Kućanstvo,Mjerna traka (krojačka),Lokalno,2.0
+929,Kućanstvo,Vješalice za hlače (3 kom),Ikea,4.5
+930,Kućanstvo,Vješalice za suknje (3 kom),Ikea,4.5
+931,Kućanstvo,Navlaka za dasku za peglanje,Lokalno,7.9
+932,Kućanstvo,Sprej za peglanje (500ml),Lokalno,3.5
+933,Kućanstvo,Sredstvo za uklanjanje mrlja (200ml),Vanish,6.9
+934,Kućanstvo,Sredstvo za bijeljenje veša (500ml),Domestos,3.5
+935,Kućanstvo,Sredstvo za tamni veš (1L),Perwoll,7.9
+936,Kućanstvo,Kapsule za veš (15 kom),Ariel,9.99
+937,Kućanstvo,Gel za veš (1.5L),Persil,10.99
+938,Kućanstvo,Prašak za veš (2kg),Ariel,11.99
+939,Kućanstvo,Omekšivač koncentrat (750ml),Lenor,5.5
+940,Kućanstvo,Maramice za sušilicu (20 kom),Lenor,2.5
+941,Kućanstvo,Sredstvo za čišćenje mašine za veš,Dr. Beckmann,4.9
+942,Kućanstvo,Sredstvo za čišćenje mašine za suđe,Finish,5.5
+943,Kućanstvo,Sol za mašinsko pranje suđa (1kg),Finish,2.9
+944,Kućanstvo,Sjajilo za mašinsko pranje suđa (500ml),Finish,3.5
+945,Kućanstvo,Osvježivač za mašinu za suđe,Finish,3.2
+946,Kućanstvo,Filter za napu (2 kom),Lokalno,4.5
+947,Kućanstvo,Sredstvo za čišćenje nape (500ml),Cif,3.9
+948,Kućanstvo,Sredstvo za čišćenje hladnjaka (500ml),Dr. Beckmann,4.2
+949,Kućanstvo,Sredstvo za čišćenje mikrovalne (500ml),Dr. Beckmann,3.9
+950,Kućanstvo,Sredstvo za čišćenje keramičke ploče (200ml),Cif,4.5
+951,Kućanstvo,Sredstvo za čišćenje drvenih podova (1L),Ajax,5.5
+952,Kućanstvo,Sredstvo za čišćenje laminata (1L),Ajax,5.2
+953,Kućanstvo,Sredstvo za čišćenje pločica (1L),Ajax,4.9
+954,Kućanstvo,Sredstvo za čišćenje fuga (500ml),Cillit Bang,5.9
+955,Kućanstvo,Sredstvo za čišćenje kamina (750ml),Mr. Proper,6.5
+956,Kućanstvo,Sredstvo za čišćenje roleta (500ml),Lokalno,4.5
+957,Kućanstvo,Sredstvo za čišćenje prozorskih okvira (500ml),Lokalno,3.9
+958,Kućanstvo,Sredstvo za čišćenje auto stakla (500ml),Sonax,4.9
+959,Kućanstvo,Sredstvo za čišćenje auto unutrašnjosti (500ml),Sonax,5.5
+960,Kućanstvo,Šampon za auto (1L),Sonax,6.9
+961,Kućanstvo,Spužva za pranje auta,Sonax,3.5
+962,Kućanstvo,Krpa za sušenje auta,Sonax,4.9
+963,Kućanstvo,Miris za auto (osvježivač),Areon,2.5
+964,Kućanstvo,Punjenje za miris za auto,Areon,1.8
+965,Kućanstvo,Lopata za smeće,Vileda,3.9
+966,Kućanstvo,Četka za ribanje (velika),Vileda,4.9
+967,Kućanstvo,Kanta za smeće sa senzorom,Lokalno,39.99
+968,Kućanstvo,Vreće za smeće sa mirisom (15 kom),Paclan,4.5
+969,Kućanstvo,Kese za zamrzavanje sa zatvaračem (20 kom),Paclan,3.5
+970,Kućanstvo,Kese za kuhanje (10 kom),Paclan,2.8
+971,Kućanstvo,Papir za pečenje (10m),Alufix,2.5
+972,Kućanstvo,Silikonski kalup za muffine,Lokalno,7.99
+973,Kućanstvo,Silikonska podloga za pečenje,Lokalno,9.99
+974,Kućanstvo,Drvena kuhača,Lokalno,1.5
+975,Kućanstvo,Silikonska špatula,Lokalno,3.5
+976,Kućanstvo,Kuhinjska hvataljka,Tefal,6.99
+977,Kućanstvo,Kuhinjska kutlača,Tefal,5.99
+978,Kućanstvo,Kuhinjska žlica,Tefal,4.99
+979,Kućanstvo,Kuhinjska vilica,Tefal,4.99
+980,Kućanstvo,Kuhinjski nož za kruh,Tefal,9.99
+981,Kućanstvo,Kuhinjski nož za povrće,Tefal,7.99
+982,Kućanstvo,Kuhinjski nož za meso,Tefal,12.99
+983,Kućanstvo,Oštrač noževa,Tefal,14.99
+984,Kućanstvo,Štapni mikser,Philips,29.99
+985,Kućanstvo,Ručni mikser,Philips,39.99
+986,Kućanstvo,Blender,Philips,49.99
+987,Kućanstvo,Sokovnik,Philips,59.99
+988,Kućanstvo,Toster,Philips,24.99
+989,Kućanstvo,Kuhalo za vodu,Philips,19.99
+990,Kućanstvo,Aparat za kavu (filter),Philips,34.99
+991,Kućanstvo,Aparat za espresso (ručna),Philips,79.99
+992,Kućanstvo,Aparat za sendviče,Philips,29.99
+993,Kućanstvo,Aparat za vafle,Philips,34.99
+994,Kućanstvo,Aparat za kokice,Lokalno,19.99
+995,Kućanstvo,Aparat za sladoled,Lokalno,29.99
+996,Kućanstvo,Aparat za jogurt,Lokalno,24.99
+997,Kućanstvo,Aparat za palačinke,Lokalno,22.99
+998,Kućanstvo,Aparat za hot dog,Lokalno,27.99
+999,Kućanstvo,Aparat za šećernu vunu,Lokalno,34.99
+1000,Kućanstvo,Aparat za koktel (blender),Philips,69.99
