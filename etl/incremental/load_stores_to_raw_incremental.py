@@ -12,7 +12,7 @@ def run_incremental():
     )
     cur = conn.cursor()
 
-    current_date = datetime.today().date()
+    current_date = (datetime.today() + timedelta(days=1)).date()
 
     # 1. Dohvati sve staging store-ove
     cur.execute("SELECT * FROM dwh_stg.stg_stores")

@@ -1,93 +1,152 @@
-# 🛒 CS360 Market Analytics Project
+# 🛒 CS360 Data Analytics Project – Supermarket Intelligence
 
-This is a Business Intelligence and Data Warehousing project developed for the CS360 course at the SSST.
-
-## 📊 Project Overview
-
-The goal of this project is to analyze supermarket sales in Bosnia and Herzegovina and understand how city-level demographics influence consumer behavior and store performance.
-
-The project integrates two data sources:
-- **Operational Relational Database** – containing transactions, products, stores, customers, and payments
-- **External CSV Dataset** – with city-level demographic data: population, average income, education index, employment rate, etc.
-
-## 🧱 Architecture
-
-The project follows a traditional **ETL + Star Schema** architecture using PostgreSQL and Tableau:
-
-
-
-
-### Schemas:
-- `dwh_stg`: Staging layer (raw import from CSV & relational sources)
-- `dwh_raw`: Raw data with SCD Type 2 implementation for tracking history
-- `dwh_star`: Star schema with dimension tables and `fact_sales`
-
-### Star Schema Includes:
-- `dim_product`
-- `dim_store` (joined with `dim_city_demographics`)
-- `dim_customer`
-- `dim_city_demographics`
-- `dim_date`
-- `fact_sales`
-
-## ⚙️ ETL Process
-
-ETL is implemented using Python with `psycopg2`. Scripts handle:
-- **Initial load** (from CSV and relational data)
-- **Incremental load** using surrogate keys, `update_id`, `row_start_date`, `row_end_date`
-
-Folder structure:
-/etl
-├── initial/
-├── incremental-stg-raw/
-├── incremental-raw-star/
-
-
-
-## 📈 Visualizations
-
-Visualizations are created in **Tableau Desktop**, and include:
-- Sales vs. Population by City
-- Sales vs. Education Index
-- Store Performance by Demographic Region
-- Product Category Revenue Breakdown
-- Customer Demographics Heatmap
-
-## 🗃️ Tech Stack
-
-- PostgreSQL
-- Python (`psycopg2`)
-- Tableau
-- SQL (CTEs, Joins, SCD2 logic)
-
-## 📁 Dataset Details
-
-**Relational DB:**
-- 10 cities, 10 stores
-- 1000 customers
-- 1000 products
-- 5000 transactions
-- 5000 sales and payments
-
-**CSV External Source:**
-- `city_demographics.csv` with demographic indicators for all cities
-
-## 🚀 How to Run
-
-1. Load the base schema using SQL scripts in `database/`
-2. Run initial and incremental load scripts in `/etl`
-3. Open Tableau and connect to the `dwh_star` schema
-4. Start building dashboards!
-
-## 👤 Author
-
-**Alem Sultanic**  
-SSST – CS360 Data Analytics  
-2025
+**Student:** Alem Sultanić  
+**University:** SSST – Sarajevo School of Science and Technology  
+**Course:** CS360 – Business Intelligence
 
 ---
 
+## 📘 Project Overview
+
+This project simulates a **real-life analytics solution** for a fictional supermarket chain operating across multiple Bosnian cities. The goal is to demonstrate a full **data warehouse pipeline**, starting from raw CSV data ingestion into an OLTP system, building a historical data warehouse with **SCD2**, and delivering visual analytics through **Tableau**.
+
+The project meets all specifications defined in the official CS360 project brief and is structured for reproducibility, analysis, and extension.
+
+---
+
+## 🧱 Data Sources
+
+- **Relational Source (PostgreSQL OLTP):** Sales transactions, customers, products, stores.
+- **External Data Source (CSV):** `demographics_by_city.csv` – includes population, income, education, and employment data by city.
+
+---
+
+## 🗃️ Folder Structure
+│
+├── data/
+│ ├── *.csv – all generated data used to populate the operational database
+│ └── scripts/ – helper scripts used for synthetic data generation
+│
+├── database/
+│ ├── marketdb_schema.sql – schema for OLTP + warehouse (stg/raw/star)
+│ ├── load_database.py – loads operational DB from CSV
+│ └── demographics_by_city.csv – external demographic data
+│
+├── etl/
+│ ├── initial_load/ – full load into dwh_stg and dwh_raw
+│ ├── incremental-stg-raw/ – SCD2 incremental from staging to raw
+│ ├── incremental-raw-star/ – incremental into star schema
+│ └── full-raw-star/ – full loads into star (initial setup)
+│
+├── visualisation/
+│ └── *.png – Tableau screenshots of key dashboards
+│
+└── README.md
 
 
+---
+
+## 🏗️ Data Warehouse Architecture
+
+The solution uses a 3-layered warehouse:
+
+1. `dwh_stg` – Staging Layer  
+2. `dwh_raw` – Raw Historical Layer (SCD2 on all changing dimensions)  
+3. `dwh_star` – Star Schema with dimensions and fact tables
+
+**Key Tables:**
+- `dim_product`, `dim_store`, `dim_customer`, `dim_city_demographics`, `dim_date`
+- `fact_sales`
+
+**ETL Approach:** Python-based ETL scripts (using `psycopg2`), organized as initial and incremental processes for all layers.
+
+---
+
+## 📊 Tableau Dashboards
+
+The following dashboards were created based on `dwh_star` schema:
+
+1. **🧍 Top 10 Products by Gender**
+   - Identifies top-selling products by male and female customers.
+
+2. **🏙️ Population vs Total Sales by City**
+   - Correlates total sales with city population.
+
+3. **👶👴 Sales by Customer Age Group**
+   - Aggregates purchasing behavior by birth year.
+
+4. **💰 Average Income and Population vs Sales**
+   - Uses color and size encoding to explore impact of income and population on sales.
+
+5. **📈 Employment Rate vs Total Sales**
+   - Investigates if higher employment leads to more purchasing power.
+
+6. **🎓 Education Index vs Sales**
+   - Analyzes how education level affects purchasing trends.
+
+7. **📍 Total Sales per City**
+   - A geographic breakdown of sales per city.
+
+---
+
+## 🛠️ Technologies Used
+
+- **PostgreSQL** – OLTP + Data Warehouse
+- **Python** – ETL scripting (initial + incremental loads)
+- **Tableau** – Reporting and visualization
+- **CSV** – External source for city demographic enrichment
+
+---
+
+## 🧪 Project Execution Guide
+
+1. Create all schemas/tables using `marketdb_schema.sql`
+2. Load OLTP database using `load_database.py`
+3. Run ETL scripts in order:
+   - Initial load → `stg` and `raw`
+   - Incremental load → `raw` (SCD2 logic)
+   - Initial + incremental load → `star`
+4. Open Tableau dashboard and connect to `dwh_star`
+5. Generate visual reports with dimensions and filters
+
+---
+
+## 📅 Project Specification Checklist
+
+| Requirement                            | Status      |
+|---------------------------------------|-------------|
+| Two Data Sources                       | ✅           |
+| Full + Incremental Load (RAW + STAR)  | ✅           |
+| Star Schema with SCD2                 | ✅           |
+| Reports using STAR                    | ✅           |
+| Interactive Tableau Dashboard         | ✅           |
+| Clear Code Structure + Documentation  | ✅           |
+| Visual Reporting & Aggregation        | ✅           |
+| Orchestration            | ✅     |
+
+---
+
+## 🧠 Optional Enhancements / Innovation
+
+- Multi-level SCD2 logic
+- Full city enrichment in all dimensional tables
+- Modular ETL scripts with clean structure
+
+---
+
+## 🧑‍🏫 Presentation Notes
+
+- Demonstrates initial and incremental load in real-time
+- Visual dashboards reflect live changes post-load
+- All queries and visuals ready for demo
+- Presentation time: ≤10 minutes
+
+---
+
+## ✅ Final Notes
+
+This repository reflects a **production-ready simulation** of a BI system for supermarket analysis, enriched with demographic insights. It fulfills **all base requirements** of the CS360 project specification, and demonstrates applied knowledge of database systems, analytics, and visualization techniques.
+
+---
 
 
