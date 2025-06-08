@@ -119,7 +119,6 @@ The following dashboards were created based on `dwh_star` schema:
 | Full + Incremental Load (RAW + STAR)  | ✅           |
 | Star Schema with SCD2                 | ✅           |
 | Reports using STAR                    | ✅           |
-| Interactive Tableau Dashboard         | ✅           |
 | Clear Code Structure + Documentation  | ✅           |
 | Visual Reporting & Aggregation        | ✅           |
 | Orchestration            | ✅     |
@@ -139,7 +138,6 @@ The following dashboards were created based on `dwh_star` schema:
 - Demonstrates initial and incremental load in real-time
 - Visual dashboards reflect live changes post-load
 - All queries and visuals ready for demo
-- Presentation time: ≤10 minutes
 
 ---
 
